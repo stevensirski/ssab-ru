@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:29",
+ "updated": "2026-11-21T21:40",
  "episodes": [
   {
    "id": "ssab-2026-11-20",
@@ -9,6 +9,76 @@
    "description": "Steven describes a dinner with former colleagues in Beijing to remember a friend who died recently, and why the evening reminded him to record conversations and keep in touch. They also talk about Beijing apartment prices, schooling for expat kids and how foreigners talk about China, and then Steven checks his stock spreadsheet as prices drop.",
    "duration": 514,
    "words": 883,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-11-18",
+   "date": "2026-11-18",
+   "title": "From a Winnipeg Warehouse to Beijing",
+   "titleRu": "От скла́да в Виннипе́ге до Пеки́на",
+   "description": "Steven tries livestreaming on three sites at once and looks back at a 2013 photo from Winnipeg, the winter of warehouse work that led him to teach in China. He also talks about Beijing's heating finally coming on, a new elevator, coaching students for the IELTS speaking exam, their presentations and a mysterious neighbour.",
+   "duration": 532,
+   "words": 887,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-11-16",
+   "date": "2026-11-16",
+   "title": "The Drone Leaves Beijing",
+   "titleRu": "Дро́н уезжа́ет из Пеки́на",
+   "description": "Before Beijing's drone ban took effect, Steven takes his old DJI Mavic to Tianjin. He gets stopped by station security, finds a courier that will ship the drone to Shanghai, stays at a hotel with robot staff and has dinner with an old colleague from Korea. They also talk about what life is like for teachers working abroad.",
+   "duration": 496,
+   "words": 909,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-11-12",
+   "date": "2026-11-12",
+   "title": "A Quiet Double Eleven and a Drone Ban",
+   "titleRu": "Ти́хий «Двойно́й оди́ннадцатый» и запре́т на дро́ны",
+   "description": "Steven describes a very quiet Double Eleven shopping day, when he gave away spare notebooks instead of buying things, and his plan to send his drone to Shanghai from Tianjin before Beijing's new drone ban takes effect. He also talks about Canadian energy stocks, the US elections and a 'lucky' lime and chocolate pie.",
+   "duration": 465,
+   "words": 819,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-11-10",
+   "date": "2026-11-10",
+   "title": "The Last Lesson and Life on a Visa",
+   "titleRu": "После́дний уро́к и жизнь на ви́зе",
+   "description": "Steven explains why visa troubles have made him less eager to learn Chinese, and how his students' first oral exams went. He also covers a new podcast idea inspired by SaaStr and some oversold Canadian energy stocks.",
+   "duration": 509,
+   "words": 895,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-11-09",
+   "date": "2026-11-09",
+   "title": "SSAB – 2026-11-09",
+   "titleRu": "",
+   "description": "",
+   "duration": 521,
+   "words": 964,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-11-05",
+   "date": "2026-11-05",
+   "title": "Almost My Laptop",
+   "titleRu": "Почти́ мой ноутбу́к",
+   "description": "Steven is about to pay off his MacBook and decides not to buy anything new. He talks about a run under blue Beijing skies, his Google and Apple stocks, options and BMO funds, and why AI can't replace language teachers or do the real work of building a business.",
+   "duration": 490,
+   "words": 916,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-11-03",
+   "date": "2026-11-03",
+   "title": "A Donkey Burger and Many Channels",
+   "titleRu": "Бурге́р с осло́м и мно́го кана́лов",
+   "description": "Steven explains why he runs so many channels and talks about his first steps with TikTok live streams. He also covers simple life in Beijing: a donkey burger, his favourite foods, the new drone ban, gym progress on creatine, and a line from American Gods about what home means.",
+   "duration": 485,
+   "words": 845,
    "hasAudio": true
   }
  ]
