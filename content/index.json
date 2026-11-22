@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:22",
+ "updated": "2026-11-22T14:55",
  "episodes": [
   {
    "id": "ssab-2026-11-20",
@@ -9,6 +9,16 @@
    "description": "Steven describes a dinner with former colleagues in Beijing to remember a friend who died recently, and why the evening reminded him to record conversations and keep in touch. They also talk about Beijing apartment prices, schooling for expat kids and how foreigners talk about China, and then Steven checks his stock spreadsheet as prices drop.",
    "duration": 514,
    "words": 883,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-11-19",
+   "date": "2026-11-19",
+   "title": "AI, Grades and a Lost Passport",
+   "titleRu": "ИИ, оце́нки и потеря́нный па́спорт",
+   "description": "Steven spends most of his day using AI to make neat grading sheets and feedback for his students' group discussions, while keeping their personal data safe. He also nearly forgets a TOEFL webinar, can't use a Chinese tax app because of a lost old passport, falls asleep over HSK flashcards, and thinks about switching gyms.",
+   "duration": 523,
+   "words": 893,
    "hasAudio": true
   },
   {
@@ -22,6 +32,16 @@
    "hasAudio": true
   },
   {
+   "id": "ssab-2026-11-17",
+   "date": "2026-11-17",
+   "title": "One Day in Tianjin",
+   "titleRu": "Оди́н день в Тяньцзи́ни",
+   "description": "Steven describes a weekend trip to Tianjin, where he took his drone after a new law banned drones in Beijing. He covers cheap rents and packed commuter trains, a Starbucks Reserve inside a 1921 bank, an Apple Store visit, a guard at St. Joseph's Cathedral who asked him to prove he was Catholic, and why they skipped the Tianjin Eye.",
+   "duration": 492,
+   "words": 857,
+   "hasAudio": true
+  },
+  {
    "id": "ssab-2026-11-16",
    "date": "2026-11-16",
    "title": "The Drone Leaves Beijing",
@@ -32,6 +52,16 @@
    "hasAudio": true
   },
   {
+   "id": "ssab-2026-11-13",
+   "date": "2026-11-13",
+   "title": "Minus One Point and Panic on the Stock Market",
+   "titleRu": "Ми́нус оди́н балл и па́ника на би́рже",
+   "description": "Steven marks Friday the 13th and the end of exams, describing a strictly run written exam worth \"minus one point\" and how the course grade is made up. He also covers falling stocks, Jensen Huang stepping down as Nvidia CEO after three scandal stories, and why he expects a V-shaped rebound (not trading advice).",
+   "duration": 485,
+   "words": 721,
+   "hasAudio": true
+  },
+  {
    "id": "ssab-2026-11-12",
    "date": "2026-11-12",
    "title": "A Quiet Double Eleven and a Drone Ban",
@@ -39,6 +69,16 @@
    "description": "Steven describes a very quiet Double Eleven shopping day, when he gave away spare notebooks instead of buying things, and his plan to send his drone to Shanghai from Tianjin before Beijing's new drone ban takes effect. He also talks about Canadian energy stocks, the US elections and a 'lucky' lime and chocolate pie.",
    "duration": 465,
    "words": 819,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-11-11",
+   "date": "2026-11-11",
+   "title": "Podcasts, Work and a Million",
+   "titleRu": "Подка́сты, рабо́та и миллио́н",
+   "description": "Steven talks about podcasting, from his own show's start during COVID to a colleague's Degrassi podcast and the idea of reviving his podcast for English learners. He also recounts a Chinese lesson about whether people like their jobs, asks the AI assistant Muse if an English teacher can earn a million dollars, and closes with Remembrance Day and \"In Flanders Fields.\"",
+   "duration": 490,
+   "words": 889,
    "hasAudio": true
   },
   {
@@ -62,6 +102,16 @@
    "hasAudio": true
   },
   {
+   "id": "ssab-2026-11-06",
+   "date": "2026-11-06",
+   "title": "Heat, Elevators and an Ungraded Exam",
+   "titleRu": "Тепло́, ли́фты и экза́мен без оце́нки",
+   "description": "Steven talks about Beijing's central heating finally coming on, the elevator repairs in his building and being tired in the early winter dark, then covers the practice discussions and essays before his students' ungraded midterm. He ends by asking whether watching TV series counts as much as reading books, especially when you live abroad and feel you should be reading in Chinese.",
+   "duration": 546,
+   "words": 972,
+   "hasAudio": true
+  },
+  {
    "id": "ssab-2026-11-05",
    "date": "2026-11-05",
    "title": "Almost My Laptop",
@@ -72,6 +122,16 @@
    "hasAudio": true
   },
   {
+   "id": "ssab-2026-11-04",
+   "date": "2026-11-04",
+   "title": "Smog, Stocks and Unbreakable Glass",
+   "titleRu": "Смог, а́кции и стекло́, кото́рое не бьётся",
+   "description": "Steven talks about heavy smog in Beijing, falling Google stock and the US midterm elections, and a Chinese company that makes unbreakable glass, set against a chained fire door in his building. He also mixes up the clocks after the time change and describes his students' first practice exam.",
+   "duration": 439,
+   "words": 777,
+   "hasAudio": true
+  },
+  {
    "id": "ssab-2026-11-03",
    "date": "2026-11-03",
    "title": "A Donkey Burger and Many Channels",
@@ -79,6 +139,206 @@
    "description": "Steven explains why he runs so many channels and talks about his first steps with TikTok live streams. He also covers simple life in Beijing: a donkey burger, his favourite foods, the new drone ban, gym progress on creatine, and a line from American Gods about what home means.",
    "duration": 485,
    "words": 845,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-11-02",
+   "date": "2026-11-02",
+   "title": "Muse: The Personal Assistant We Dreamed Of?",
+   "titleRu": "Muse — ли́чный по́мощник мечты́?",
+   "description": "Steven describes how AI makes mountains of videos and lessons for his channels, and his plan to post them with Meta's new assistant Muse. He also talks about his Halloween fairy-tale readings and his China Policy Watch dashboard, which tracks how stocks move around China's big party meeting.",
+   "duration": 469,
+   "words": 841,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-30",
+   "date": "2026-10-30",
+   "title": "Farewell, No Agenda",
+   "titleRu": "Проща́й, No Agenda",
+   "description": "Stephen says goodbye to the No Agenda show, which ended after 19 years following John Dvorak's death, and reflects on what it taught him about value-for-value podcasting. He also jokes that Halloween kicks off China's factory season, shares how AI now speeds up his video editing, and previews the second night of his Halloween special: Gogol's \"St. John's Eve.\"",
+   "duration": 506,
+   "words": 858,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-29",
+   "date": "2026-10-29",
+   "title": "A Touchscreen Laptop and Halloween",
+   "titleRu": "Ноутбу́к с сенсо́рным экра́ном и Хэллоуи́н",
+   "description": "Steven covers Rolls-Royce shares, the end of the No Agenda radio show after 19 years, and Apple's new touchscreen MacBook Pro. He also shows his AI dashboards, including one for studying Chinese, and picks Russian and other scary stories to read for Halloween.",
+   "duration": 544,
+   "words": 916,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-28",
+   "date": "2026-10-28",
+   "title": "Poor Mbappé and Lots of Panels",
+   "titleRu": "Бе́дный Мбаппе́ и мно́го па́нелей",
+   "description": "Steven explains how a meme cost footballer Kylian Mbappé his Chinese sponsorship deals, and shows the Claude Code panels he built to automate his podcast, comics and Substack work. He also talks about tracking student hours and the IELTS speaking program at his university, and the cold weather in Beijing.",
+   "duration": 479,
+   "words": 808,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-27",
+   "date": "2026-10-27",
+   "title": "Going Live and Four Schools",
+   "titleRu": "Прямо́й эфи́р и четы́ре шко́лы",
+   "description": "Steven describes his first TikTok livestream, his automated studio setup and his plan for four online English schools, then asks whether anyone actually wants them. He also talks about this year's Halloween audiobooks of Ukrainian folk tales, and about why his students' favourite essay openings don't work.",
+   "duration": 462,
+   "words": 805,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-26",
+   "date": "2026-10-26",
+   "title": "A Dirty Gym and a Stock Drop",
+   "titleRu": "Гря́зный спортза́л и паде́ние а́кций",
+   "description": "Steven talks about hygiene in Chinese gyms and a scary headline about catching HPV at the gym, then explains Friday's sharp drop in Rolls-Royce shares and why he couldn't buy them from Canada. He also covers J. Paul Getty's advice, his new AI-built video-editing tool, and his one-year plan to split the podcast into several channels.",
+   "duration": 425,
+   "words": 859,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-23",
+   "date": "2026-10-23",
+   "title": "Third Time's the Charm",
+   "titleRu": "С тре́тьего ра́за получи́лось",
+   "description": "Steven talks about a deadly earthquake in Tibet and how a new group exercise only worked in his third class of the day. He also covers an awkward lunch with a student, thick smog in Beijing, his nearly full hard drives and a sharp drop in Rolls-Royce shares.",
+   "duration": 494,
+   "words": 891,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-22",
+   "date": "2026-10-22",
+   "title": "The Speaker Nobody Asked For",
+   "titleRu": "Ко́лонка, кото́рую никто́ не проси́л",
+   "description": "Steven gets a Chinese-only smart speaker from China Telecom that he never asked for, gets locked inside his gym when the QR-code exit fails, and talks about cold Beijing mornings, practising Chinese characters and new creative assignments for his students. He ends with Alberta's vote on staying in Canada and how it compares with Quebec's referendum.",
+   "duration": 519,
+   "words": 895,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-21",
+   "date": "2026-10-21",
+   "title": "Burnt Steaks and Tough Questions",
+   "titleRu": "Сгоре́вшие сте́йки и тру́дные вопро́сы",
+   "description": "Steven explains how a broken microphone ruined yesterday's recording (and the steaks), shares his Halloween reading plans and gym routine, and recounts a student's interview-style questions about using Claude, whether AI will replace teachers, and Canada's extradition policy.",
+   "duration": 494,
+   "words": 856,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-20",
+   "date": "2026-10-20",
+   "title": "No \"Can't\", But Maybe a Degree?",
+   "titleRu": "Без «can't», зато́ с дипло́мом?",
+   "description": "Steven talks about teaching academic English and IELTS speaking to his Chinese students in Beijing, and wonders whether to spend $5,000 on a Chinese degree or on travel. He also talks about Adam Curry leaving No Agenda to focus on God and the Bible, and shares his own thoughts on faith and the Catholic Church.",
+   "duration": 470,
+   "words": 817,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-19",
+   "date": "2026-10-19",
+   "title": "AI, Creatine and the Girlfriend's Parents",
+   "titleRu": "ИИ, креати́н и роди́тели де́вушки",
+   "description": "Steven talks about how Claude Code has made computer work fun again by automating video editing, captions and animations, and he shares his privacy worries and plans for a second, faceless podcast project. He also covers his creatine and gym progress and meeting his girlfriend's parents for the first time.",
+   "duration": 461,
+   "words": 861,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-16",
+   "date": "2026-10-16",
+   "title": "Artificial Intelligence and Lessons in Reserve",
+   "titleRu": "Иску́сственный интелле́кт и уро́ки про запа́с",
+   "description": "Steven describes his first week and a half working with the AI program Claude, which found he has enough English lessons for six months and could help sort 15 years of teaching material. He also talks about his workouts and creatine, a broken elevator, cheaper blueberries in Beijing, his wrong call on coal stocks, and Adam Curry leaving No Agenda.",
+   "duration": 501,
+   "words": 878,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-15",
+   "date": "2026-10-15",
+   "title": "One Recording, All the Work",
+   "titleRu": "Оди́н ро́лик — вся рабо́та",
+   "description": "Steven describes how Claude Code now handles his post-production: cutting clips, summaries, translations and even code-built animations. He also asks whether AI-made graphics need an AI label, then covers China's autumn stock moves and a listener question about microphones.",
+   "duration": 459,
+   "words": 793,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-14",
+   "date": "2026-10-14",
+   "title": "Claude, Cameras and the Content Fortress",
+   "titleRu": "Клод, ка́меры и кре́пость конте́нта",
+   "description": "Steven describes his new AI system that turns one podcast recording into transcripts, articles, short clips and translations automatically, and explains why he chose 1080p video and simple tools over new gear. He also covers the IELTS cancellations in mainland China, how his students use AI to practise speaking, and higher pay for YouTube Shorts.",
+   "duration": 460,
+   "words": 799,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-06",
+   "date": "2026-10-06",
+   "title": "Videos, a Cold and the First Book",
+   "titleRu": "Ви́део, на́сморк и пе́рвая кни́га",
+   "description": "With a stuffy nose, Steven reviews how his travel videos are doing on each platform, criticizes his own storytelling and footage, and considers splitting his channel and simplifying his editing workflow. He ends by celebrating the first adult book he has finished reading in Chinese.",
+   "duration": 478,
+   "words": 844,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-30",
+   "date": "2026-09-30",
+   "title": "Office Hours and an Unexpected Hit",
+   "titleRu": "Приёмные часы́ и неожи́данный успе́х",
+   "description": "Before China's National Day holiday, Steven talks about his first month teaching at the university: office hours, homework, ten-minute presentations and how students use AI. He also covers a hard Russian lesson, being turned down for permanent residency in China, and his Singapore underpass video unexpectedly getting 19,000 views on Instagram.",
+   "duration": 509,
+   "words": 907,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-29",
+   "date": "2026-09-29",
+   "title": "Dried Pineapple, AI and the Markets",
+   "titleRu": "Сухо́й анана́с, ИИ и ры́нки",
+   "description": "A sugar crash from dried pineapple puts Steven to sleep early. He then talks about his attempts to hand work over to AI, why he's splitting his content into three separate projects, and why building skills he can take to any country matters more than a Chinese work visa. He ends with a look at gold, bitcoin and a possible 'perfect storm' in the stock market around the US elections.",
+   "duration": 456,
+   "words": 842,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-28",
+   "date": "2026-09-28",
+   "title": "Why I Don't Leave China",
+   "titleRu": "Почему́ я не уезжа́ю из Кита́я",
+   "description": "Stephen's friend moves to Shenzhen, and he wonders where he would go if he ever left Beijing. He talks about visas, Chinese degrees and stock-market advice, complains about office hours at a meeting with his department head, and answers people who ask why he doesn't just leave China.",
+   "duration": 483,
+   "words": 905,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-10",
+   "date": "2026-09-10",
+   "title": "Beijing Calls, Cymbals Ring",
+   "titleRu": "Пеки́н зовёт, таре́лки звеня́т",
+   "description": "Steven is still in Winnipeg, getting ready for a new teaching term in Beijing. He walks through his class schedule and packing, his birthday dinner and his complaints about magazines, backing up 400 GB of videos in Terminal and recording an album from his old cymbals. He ends by asking whether kids who are on social media need a job.",
+   "duration": 498,
+   "words": 946,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-08",
+   "date": "2026-09-08",
+   "title": "On Foot Across the Border to Canada",
+   "titleRu": "Пешко́м че́рез грани́цу в Кана́ду",
+   "description": "Steven records from Toronto airport at the end of his big American trip, telling how he walked from Detroit into Canada over the new Gordie Howe Bridge, went through Canadian customs and took a bus to Toronto. He looks back on his last days in Detroit and Hamtramck and answers the big question: is America worth visiting?",
+   "duration": 518,
+   "words": 931,
    "hasAudio": true
   }
  ]
