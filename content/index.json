@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-22T14:55",
+ "updated": "2026-11-23T17:13",
  "episodes": [
+  {
+   "id": "ssab-2026-11-23",
+   "date": "2026-11-23",
+   "title": "The Market Falls, Gold Flies Off the Shelves",
+   "titleRu": "Ры́нок па́дает, зо́лото разлета́ется",
+   "description": "Steven covers a steep market sell-off that hit NVIDIA and newly listed Anthropic, explains RSI and capitulation, and describes a trip across Beijing to watch people buy up gold. He also talks about his weekend with the AI assistants Claude and Codex and the feedback his students gave on his teaching.",
+   "duration": 505,
+   "words": 897,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-20",
    "date": "2026-11-20",
