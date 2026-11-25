@@ -1,0 +1,2973 @@
+{
+ "id": "ssab-2026-11-25",
+ "date": "2026-11-25",
+ "title": "\"Impressive!\": Grades, Flashcards and Robots",
+ "titleRu": "«Впечатля́юще!»: оце́нки, карто́чки и ро́боты",
+ "description": "Steven talks about his teacher evaluation scores, students who insist the grades were wrong, and a senior teacher's verdict of \"impressive\" after she watched his lesson with AI-made flashcards. He also covers his student-centred teaching approach, the upcoming speaking exams, and his new overnight system where AI agents check each other's work.",
+ "duration": 474,
+ "audio": {
+  "src": "audio/ssab-2026-11-25.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "Коротко́ о гла́вном",
+     "en": "In brief",
+     "segments": [
+      {"zh": "Коротко́", "py": "коро́тко", "gl": "briefly"},
+      {"zh": " "},
+      {"zh": "о", "py": "о", "gl": "about"},
+      {"zh": " "},
+      {"zh": "гла́вном", "py": "гла́вное", "gl": "the main thing"}
+     ],
+     "start": 8.95,
+     "end": 17.96
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "В э́том вы́пуске Сти́вен расска́зывает о свои́х студе́нтах.",
+     "en": "In this episode, Steven talks about his students.",
+     "segments": [
+      {"zh": "В", "py": "в", "gl": "in"},
+      {"zh": " "},
+      {"zh": "э́том", "py": "э́тот", "gl": "this"},
+      {"zh": " "},
+      {"zh": "вы́пуске", "py": "вы́пуск", "gl": "episode"},
+      {"zh": " "},
+      {"zh": "Сти́вен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "расска́зывает", "py": "расска́зывать", "gl": "talks"},
+      {"zh": " "},
+      {"zh": "о", "py": "о", "gl": "about"},
+      {"zh": " "},
+      {"zh": "свои́х", "py": "свой", "gl": "his (own)"},
+      {"zh": " "},
+      {"zh": "студе́нтах", "py": "студе́нт", "gl": "students (prep.)"},
+      {"zh": "."}
+     ],
+     "start": 17.96,
+     "end": 22.07
+    },
+    {
+     "id": "s003",
+     "zh": "Не́которые из них ду́мают, что учи́телю поста́вили непра́вильные оце́нки.",
+     "en": "Some of them think the teacher was given the wrong grades.",
+     "segments": [
+      {"zh": "Не́которые", "py": "не́который", "gl": "some"},
+      {"zh": " "},
+      {"zh": "из", "py": "из", "gl": "of"},
+      {"zh": " "},
+      {"zh": "них", "py": "они́", "gl": "them"},
+      {"zh": " "},
+      {"zh": "ду́мают", "py": "ду́мать", "gl": "think"},
+      {"zh": ", "},
+      {"zh": "что", "py": "что", "gl": "that"},
+      {"zh": " "},
+      {"zh": "учи́телю", "py": "учи́тель", "gl": "to the teacher (dat.)"},
+      {"zh": " "},
+      {"zh": "поста́вили", "py": "поста́вить", "gl": "gave (grades)"},
+      {"zh": " "},
+      {"zh": "непра́вильные", "py": "непра́вильный", "gl": "wrong"},
+      {"zh": " "},
+      {"zh": "оце́нки", "py": "оце́нка", "gl": "grades"},
+      {"zh": "."}
+     ],
+     "start": 22.53,
+     "end": 26.48
+    },
+    {
+     "id": "s004",
+     "zh": "А ста́ршая учи́тельница посиде́ла на его́ уро́ке и сказа́ла: «Впечатля́юще!»",
+     "en": "And a senior teacher sat in on his lesson and said: \"Impressive!\"",
+     "segments": [
+      {"zh": "А", "py": "а", "gl": "and"},
+      {"zh": " "},
+      {"zh": "ста́ршая", "py": "ста́рший", "gl": "senior"},
+      {"zh": " "},
+      {"zh": "учи́тельница", "py": "учи́тельница", "gl": "teacher (female)"},
+      {"zh": " "},
+      {"zh": "посиде́ла", "py": "посиде́ть", "gl": "sat (in)"},
+      {"zh": " "},
+      {"zh": "на", "py": "на", "gl": "at"},
+      {"zh": " "},
+      {"zh": "его́", "py": "его́", "gl": "his"},
+      {"zh": " "},
+      {"zh": "уро́ке", "py": "уро́к", "gl": "lesson (prep.)"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "сказа́ла", "py": "сказа́ть", "gl": "said"},
+      {"zh": ": «"},
+      {"zh": "Впечатля́юще", "py": "впечатля́юще", "gl": "impressive"},
+      {"zh": "!»"}
+     ],
+     "start": 26.48,
+     "end": 32.69
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s005",
+     "zh": "Сти́вен объясня́ет, как он у́чит.",
+     "en": "Steven explains how he teaches.",
+     "segments": [
+      {"zh": "Сти́вен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "объясня́ет", "py": "объясня́ть", "gl": "explains"},
+      {"zh": ", "},
+      {"zh": "как", "py": "как", "gl": "how"},
+      {"zh": " "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "у́чит", "py": "учи́ть", "gl": "teaches"},
+      {"zh": "."}
+     ],
+     "start": 33.34,
+     "end": 35.73
+    },
+    {
+     "id": "s006",
+     "zh": "Студе́нты должны́ говори́ть бо́льше, чем учи́тель.",
+     "en": "Students should speak more than the teacher.",
+     "segments": [
+      {"zh": "Студе́нты", "py": "студе́нт", "gl": "students"},
+      {"zh": " "},
+      {"zh": "должны́", "py": "до́лжен", "gl": "should"},
+      {"zh": " "},
+      {"zh": "говори́ть", "py": "говори́ть", "gl": "speak"},
+      {"zh": " "},
+      {"zh": "бо́льше", "py": "бо́льше", "gl": "more"},
+      {"zh": ", "},
+      {"zh": "чем", "py": "чем", "gl": "than"},
+      {"zh": " "},
+      {"zh": "учи́тель", "py": "учи́тель", "gl": "teacher"},
+      {"zh": "."}
+     ],
+     "start": 35.98,
+     "end": 38.67
+    },
+    {
+     "id": "s007",
+     "zh": "Уро́к до́лжен быть весёлым.",
+     "en": "A lesson should be fun.",
+     "segments": [
+      {"zh": "Уро́к", "py": "уро́к", "gl": "lesson"},
+      {"zh": " "},
+      {"zh": "до́лжен", "py": "до́лжен", "gl": "should"},
+      {"zh": " "},
+      {"zh": "быть", "py": "быть", "gl": "be"},
+      {"zh": " "},
+      {"zh": "весёлым", "py": "весёлый", "gl": "fun (instr.)"},
+      {"zh": "."}
+     ],
+     "start": 38.76,
+     "end": 40.85
+    },
+    {
+     "id": "s008",
+     "zh": "А тру́дные вопро́сы о грамма́тике лу́чше задава́ть ИИ.",
+     "en": "And it's better to ask AI difficult grammar questions.",
+     "segments": [
+      {"zh": "А", "py": "а", "gl": "and"},
+      {"zh": " "},
+      {"zh": "тру́дные", "py": "тру́дный", "gl": "difficult"},
+      {"zh": " "},
+      {"zh": "вопро́сы", "py": "вопро́с", "gl": "questions"},
+      {"zh": " "},
+      {"zh": "о", "py": "о", "gl": "about"},
+      {"zh": " "},
+      {"zh": "грамма́тике", "py": "грамма́тика", "gl": "grammar (prep.)"},
+      {"zh": " "},
+      {"zh": "лу́чше", "py": "лу́чше", "gl": "better"},
+      {"zh": " "},
+      {"zh": "задава́ть", "py": "задава́ть", "gl": "to ask"},
+      {"zh": " "},
+      {"zh": "ИИ", "py": "ИИ", "gl": "AI"},
+      {"zh": "."}
+     ],
+     "start": 40.98,
+     "end": 44.83
+    },
+    {
+     "id": "s009",
+     "zh": "ИИ — э́то у́мная програ́мма в компью́тере.",
+     "en": "AI is a smart program in a computer.",
+     "segments": [
+      {"zh": "ИИ", "py": "ИИ", "gl": "AI"},
+      {"zh": " — "},
+      {"zh": "э́то", "py": "э́то", "gl": "is (this)"},
+      {"zh": " "},
+      {"zh": "у́мная", "py": "у́мный", "gl": "smart"},
+      {"zh": " "},
+      {"zh": "програ́мма", "py": "програ́мма", "gl": "program"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "in"},
+      {"zh": " "},
+      {"zh": "компью́тере", "py": "компью́тер", "gl": "computer (prep.)"},
+      {"zh": "."}
+     ],
+     "start": 44.9,
+     "end": 48.13
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s010",
+     "zh": "Ещё он расска́зывает о карто́чках, кото́рые сде́лал ИИ, и о хи́трых студе́нтах.",
+     "en": "He also talks about flashcards made by AI and about sneaky students.",
+     "segments": [
+      {"zh": "Ещё", "py": "ещё", "gl": "also"},
+      {"zh": " "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "расска́зывает", "py": "расска́зывать", "gl": "talks"},
+      {"zh": " "},
+      {"zh": "о", "py": "о", "gl": "about"},
+      {"zh": " "},
+      {"zh": "карто́чках", "py": "ка́рточка", "gl": "flashcards (prep.)"},
+      {"zh": ", "},
+      {"zh": "кото́рые", "py": "кото́рый", "gl": "which"},
+      {"zh": " "},
+      {"zh": "сде́лал", "py": "сде́лать", "gl": "made"},
+      {"zh": " "},
+      {"zh": "ИИ", "py": "ИИ", "gl": "AI"},
+      {"zh": ", "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "о", "py": "о", "gl": "about"},
+      {"zh": " "},
+      {"zh": "хи́трых", "py": "хи́трый", "gl": "sneaky"},
+      {"zh": " "},
+      {"zh": "студе́нтах", "py": "студе́нт", "gl": "students (prep.)"},
+      {"zh": "."}
+     ],
+     "start": 48.44,
+     "end": 54.24
+    },
+    {
+     "id": "s011",
+     "zh": "Че́рез три неде́ли у студе́нтов экза́мен по разгово́ру.",
+     "en": "In three weeks, the students have a speaking exam.",
+     "segments": [
+      {"zh": "Че́рез", "py": "че́рез", "gl": "in (time)"},
+      {"zh": " "},
+      {"zh": "три", "py": "три"},
+      {"zh": " "},
+      {"zh": "неде́ли", "py": "неде́ля", "gl": "weeks (gen.)"},
+      {"zh": " "},
+      {"zh": "у", "py": "у", "gl": "(have)"},
+      {"zh": " "},
+      {"zh": "студе́нтов", "py": "студе́нт", "gl": "students (gen.)"},
+      {"zh": " "},
+      {"zh": "экза́мен", "py": "экза́мен", "gl": "exam"},
+      {"zh": " "},
+      {"zh": "по", "py": "по", "gl": "in, on"},
+      {"zh": " "},
+      {"zh": "разгово́ру", "py": "разгово́р", "gl": "speaking (dat.)"},
+      {"zh": "."}
+     ],
+     "start": 54.24,
+     "end": 58.67
+    },
+    {
+     "id": "s012",
+     "zh": "В конце́ — но́вый о́пыт: ро́боты прове́ряют рабо́ту друг дру́га но́чью.",
+     "en": "At the end, a new experiment: robots check each other's work at night.",
+     "segments": [
+      {"zh": "В", "py": "в", "gl": "at"},
+      {"zh": " "},
+      {"zh": "конце́", "py": "коне́ц", "gl": "end (prep.)"},
+      {"zh": " — "},
+      {"zh": "но́вый", "py": "но́вый", "gl": "new"},
+      {"zh": " "},
+      {"zh": "о́пыт", "py": "о́пыт", "gl": "experiment"},
+      {"zh": ": "},
+      {"zh": "ро́боты", "py": "ро́бот", "gl": "robots"},
+      {"zh": " "},
+      {"zh": "прове́ряют", "py": "проверя́ть", "gl": "check"},
+      {"zh": " "},
+      {"zh": "рабо́ту", "py": "рабо́та", "gl": "work (acc.)"},
+      {"zh": " "},
+      {"zh": "друг", "py": "друг", "gl": "each"},
+      {"zh": " "},
+      {"zh": "дру́га", "py": "друг", "gl": "other (gen.)"},
+      {"zh": " "},
+      {"zh": "но́чью", "py": "но́чью", "gl": "at night"},
+      {"zh": "."}
+     ],
+     "start": 58.7,
+     "end": 64.09
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s013",
+     "zh": "Оце́нки бы́ли «непра́вильные»",
+     "en": "The ratings were \"wrong\"",
+     "segments": [
+      {"zh": "Оце́нки", "py": "оце́нка", "gl": "ratings, scores"},
+      {"zh": " "},
+      {"zh": "бы́ли", "py": "быть", "gl": "were"},
+      {"zh": " «"},
+      {"zh": "непра́вильные", "py": "непра́вильный", "gl": "wrong"},
+      {"zh": "»"}
+     ],
+     "start": 64.76,
+     "end": 67.05
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s014",
+     "zh": "На про́шлой неде́ле студе́нты заполни́ли анке́ты об учи́теле.",
+     "en": "Last week, the students filled out questionnaires about their teacher.",
+     "segments": [
+      {"zh": "На", "py": "на", "gl": "on, in"},
+      {"zh": " "},
+      {"zh": "про́шлой", "py": "про́шлый", "gl": "last"},
+      {"zh": " "},
+      {"zh": "неде́ле", "py": "неде́ля", "gl": "week (prep.)"},
+      {"zh": " "},
+      {"zh": "студе́нты", "py": "студе́нт", "gl": "students"},
+      {"zh": " "},
+      {"zh": "заполни́ли", "py": "запо́лнить", "gl": "filled out"},
+      {"zh": " "},
+      {"zh": "анке́ты", "py": "анке́та", "gl": "questionnaires"},
+      {"zh": " "},
+      {"zh": "об", "py": "об", "gl": "about"},
+      {"zh": " "},
+      {"zh": "учи́теле", "py": "учи́тель", "gl": "teacher (prep.)"},
+      {"zh": "."}
+     ],
+     "start": 67.06,
+     "end": 71.09
+    },
+    {
+     "id": "s015",
+     "zh": "Вчера́ Сти́вен показа́л им результа́ты.",
+     "en": "Yesterday, Steven showed them the results.",
+     "segments": [
+      {"zh": "Вчера́", "py": "вчера́", "gl": "yesterday"},
+      {"zh": " "},
+      {"zh": "Сти́вен", "py": "Сти́вен", "gl": "Steven (name)"},
+      {"zh": " "},
+      {"zh": "показа́л", "py": "показа́ть", "gl": "showed"},
+      {"zh": " "},
+      {"zh": "им", "py": "они́", "gl": "them (dat.)"},
+      {"zh": " "},
+      {"zh": "результа́ты", "py": "результа́т", "gl": "results"},
+      {"zh": "."}
+     ],
+     "start": 71.22,
+     "end": 74.11
+    },
+    {
+     "id": "s016",
+     "zh": "Его́ си́няя ли́ния была́ чуть ни́же ора́нжевой.",
+     "en": "His blue line was slightly lower than the orange one.",
+     "segments": [
+      {"zh": "Его́", "py": "его́", "gl": "his"},
+      {"zh": " "},
+      {"zh": "си́няя", "py": "си́ний", "gl": "blue"},
+      {"zh": " "},
+      {"zh": "ли́ния", "py": "ли́ния", "gl": "line"},
+      {"zh": " "},
+      {"zh": "была́", "py": "быть", "gl": "was"},
+      {"zh": " "},
+      {"zh": "чуть", "py": "чуть", "gl": "slightly"},
+      {"zh": " "},
+      {"zh": "ни́же", "py": "ни́зкий", "gl": "lower (compar.)"},
+      {"zh": " "},
+      {"zh": "ора́нжевой", "py": "ора́нжевый", "gl": "than the orange (one)"},
+      {"zh": "."}
+     ],
+     "start": 74.18,
+     "end": 77.75
+    },
+    {
+     "id": "s017",
+     "zh": "Ора́нжевая ли́ния — э́то сре́дний результа́т.",
+     "en": "The orange line is the average result.",
+     "segments": [
+      {"zh": "Ора́нжевая", "py": "ора́нжевый", "gl": "orange"},
+      {"zh": " "},
+      {"zh": "ли́ния", "py": "ли́ния", "gl": "line"},
+      {"zh": " — "},
+      {"zh": "э́то", "py": "э́то", "gl": "is (this is)"},
+      {"zh": " "},
+      {"zh": "сре́дний", "py": "сре́дний", "gl": "average"},
+      {"zh": " "},
+      {"zh": "результа́т", "py": "результа́т", "gl": "result"},
+      {"zh": "."}
+     ],
+     "start": 78.34,
+     "end": 81.07
+    },
+    {
+     "id": "s018",
+     "zh": "У Сти́вена бы́ли оце́нки ни́же сре́днего за ча́сы консульта́ций.",
+     "en": "Steven had below-average ratings for office hours.",
+     "segments": [
+      {"zh": "У", "py": "у", "gl": "at (has)"},
+      {"zh": " "},
+      {"zh": "Сти́вена", "py": "Сти́вен", "gl": "Steven (gen.)"},
+      {"zh": " "},
+      {"zh": "бы́ли", "py": "быть", "gl": "were (had)"},
+      {"zh": " "},
+      {"zh": "оце́нки", "py": "оце́нка", "gl": "ratings"},
+      {"zh": " "},
+      {"zh": "ни́же", "py": "ни́зкий", "gl": "lower (compar.)"},
+      {"zh": " "},
+      {"zh": "сре́днего", "py": "сре́дний", "gl": "average (gen.)"},
+      {"zh": " "},
+      {"zh": "за", "py": "за", "gl": "for"},
+      {"zh": " "},
+      {"zh": "ча́сы", "py": "час", "gl": "hours"},
+      {"zh": " "},
+      {"zh": "консульта́ций", "py": "консульта́ция", "gl": "consultations (gen. pl.)"},
+      {"zh": "."}
+     ],
+     "start": 81.48,
+     "end": 85.93
+    },
+    {
+     "id": "s019",
+     "zh": "Консульта́ция — э́то вре́мя, когда́ студе́нт мо́жет прийти́ к учи́телю.",
+     "en": "Office hours are a time when a student can come to the teacher.",
+     "segments": [
+      {"zh": "Консульта́ция", "py": "консульта́ция", "gl": "office hours"},
+      {"zh": " — "},
+      {"zh": "э́то", "py": "э́то", "gl": "is (this is)"},
+      {"zh": " "},
+      {"zh": "вре́мя", "py": "вре́мя", "gl": "time"},
+      {"zh": ", "},
+      {"zh": "когда́", "py": "когда́", "gl": "when"},
+      {"zh": " "},
+      {"zh": "студе́нт", "py": "студе́нт", "gl": "student"},
+      {"zh": " "},
+      {"zh": "мо́жет", "py": "мочь", "gl": "can"},
+      {"zh": " "},
+      {"zh": "прийти́", "py": "прийти́", "gl": "come"},
+      {"zh": " "},
+      {"zh": "к", "py": "к", "gl": "to"},
+      {"zh": " "},
+      {"zh": "учи́телю", "py": "учи́тель", "gl": "teacher (dat.)"},
+      {"zh": "."}
+     ],
+     "start": 86.4,
+     "end": 90.55
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s020",
+     "zh": "Сего́дня к нему́ пришли́ два студе́нта.",
+     "en": "Today, two students came to see him.",
+     "segments": [
+      {"zh": "Сего́дня", "py": "сего́дня", "gl": "today"},
+      {"zh": " "},
+      {"zh": "к", "py": "к", "gl": "to"},
+      {"zh": " "},
+      {"zh": "нему́", "py": "он", "gl": "him (dat.)"},
+      {"zh": " "},
+      {"zh": "пришли́", "py": "прийти́", "gl": "came"},
+      {"zh": " "},
+      {"zh": "два", "py": "два", "gl": "two"},
+      {"zh": " "},
+      {"zh": "студе́нта", "py": "студе́нт", "gl": "students (gen. sg.)"},
+      {"zh": "."}
+     ],
+     "start": 90.8,
+     "end": 93.31
+    },
+    {
+     "id": "s021",
+     "zh": "Оди́н у́чится на фина́нсиста, друго́й — на инжене́ра.",
+     "en": "One is studying to be a financier, the other to be an engineer.",
+     "segments": [
+      {"zh": "Оди́н", "py": "оди́н", "gl": "one"},
+      {"zh": " "},
+      {"zh": "у́чится", "py": "учи́ться", "gl": "studies"},
+      {"zh": " "},
+      {"zh": "на", "py": "на", "gl": "to be (a)"},
+      {"zh": " "},
+      {"zh": "фина́нсиста", "py": "фина́нсист", "gl": "financier"},
+      {"zh": ", "},
+      {"zh": "друго́й", "py": "друго́й", "gl": "the other"},
+      {"zh": " — "},
+      {"zh": "на", "py": "на", "gl": "to be (a)"},
+      {"zh": " "},
+      {"zh": "инжене́ра", "py": "инжене́р", "gl": "engineer"},
+      {"zh": "."}
+     ],
+     "start": 93.46,
+     "end": 96.99
+    },
+    {
+     "id": "s022",
+     "zh": "Они́ сказа́ли: «Оце́нки непра́вильные! Нам нра́вятся ва́ши уро́ки. Наве́рно, оди́н челове́к поста́вил ма́ленькую оце́нку».",
+     "en": "They said: \"The ratings are wrong! We like your lessons. Probably one person gave a low rating.\"",
+     "segments": [
+      {"zh": "Они́", "py": "они́", "gl": "they"},
+      {"zh": " "},
+      {"zh": "сказа́ли", "py": "сказа́ть", "gl": "said"},
+      {"zh": ": «"},
+      {"zh": "Оце́нки", "py": "оце́нка", "gl": "ratings"},
+      {"zh": " "},
+      {"zh": "непра́вильные", "py": "непра́вильный", "gl": "wrong"},
+      {"zh": "! "},
+      {"zh": "Нам", "py": "мы", "gl": "to us (dat.)"},
+      {"zh": " "},
+      {"zh": "нра́вятся", "py": "нра́виться", "gl": "are pleasing"},
+      {"zh": " "},
+      {"zh": "ва́ши", "py": "ваш", "gl": "your"},
+      {"zh": " "},
+      {"zh": "уро́ки", "py": "уро́к", "gl": "lessons"},
+      {"zh": ". "},
+      {"zh": "Наве́рно", "py": "наве́рно", "gl": "probably"},
+      {"zh": ", "},
+      {"zh": "оди́н", "py": "оди́н", "gl": "one"},
+      {"zh": " "},
+      {"zh": "челове́к", "py": "челове́к", "gl": "person"},
+      {"zh": " "},
+      {"zh": "поста́вил", "py": "поста́вить", "gl": "gave (a rating)"},
+      {"zh": " "},
+      {"zh": "ма́ленькую", "py": "ма́ленький", "gl": "low, small"},
+      {"zh": " "},
+      {"zh": "оце́нку", "py": "оце́нка", "gl": "rating (acc.)"},
+      {"zh": "»."}
+     ],
+     "start": 97.0,
+     "end": 105.37
+    },
+    {
+     "id": "s023",
+     "zh": "Сти́вену ста́ло о́чень прия́тно.",
+     "en": "Steven felt very touched.",
+     "segments": [
+      {"zh": "Сти́вену", "py": "Сти́вен", "gl": "Steven (dat.)"},
+      {"zh": " "},
+      {"zh": "ста́ло", "py": "стать", "gl": "became, felt"},
+      {"zh": " "},
+      {"zh": "о́чень", "py": "о́чень", "gl": "very"},
+      {"zh": " "},
+      {"zh": "прия́тно", "py": "прия́тно", "gl": "pleasant, nice"},
+      {"zh": "."}
+     ],
+     "start": 105.78,
+     "end": 107.77
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s024",
+     "zh": "На консульта́ции студе́нты репети́руют вопро́сы для IELTS.",
+     "en": "During office hours, the students practice questions for the IELTS.",
+     "segments": [
+      {"zh": "На", "py": "на", "gl": "at, during"},
+      {"zh": " "},
+      {"zh": "консульта́ции", "py": "консульта́ция", "gl": "office hours (prep.)"},
+      {"zh": " "},
+      {"zh": "студе́нты", "py": "студе́нт", "gl": "students"},
+      {"zh": " "},
+      {"zh": "репети́руют", "py": "репети́ровать", "gl": "practice"},
+      {"zh": " "},
+      {"zh": "вопро́сы", "py": "вопро́с", "gl": "questions"},
+      {"zh": " "},
+      {"zh": "для", "py": "для", "gl": "for"},
+      {"zh": " "},
+      {"zh": "IELTS", "py": "IELTS", "gl": "the IELTS exam"},
+      {"zh": "."}
+     ],
+     "start": 108.08,
+     "end": 112.61
+    },
+    {
+     "id": "s025",
+     "zh": "IELTS — э́то междунаро́дный экза́мен по англи́йскому.",
+     "en": "IELTS is an international English exam.",
+     "segments": [
+      {"zh": "IELTS", "py": "IELTS", "gl": "the IELTS exam"},
+      {"zh": " — "},
+      {"zh": "э́то", "py": "э́то", "gl": "is (this is)"},
+      {"zh": " "},
+      {"zh": "междунаро́дный", "py": "междунаро́дный", "gl": "international"},
+      {"zh": " "},
+      {"zh": "экза́мен", "py": "экза́мен", "gl": "exam"},
+      {"zh": " "},
+      {"zh": "по", "py": "по", "gl": "in, on"},
+      {"zh": " "},
+      {"zh": "англи́йскому", "py": "англи́йский", "gl": "English (dat.)"},
+      {"zh": "."}
+     ],
+     "start": 113.18,
+     "end": 116.71
+    },
+    {
+     "id": "s026",
+     "zh": "До́ма так никто́ не занима́ется.",
+     "en": "Nobody practices like this at home.",
+     "segments": [
+      {"zh": "До́ма", "py": "до́ма", "gl": "at home"},
+      {"zh": " "},
+      {"zh": "так", "py": "так", "gl": "like this"},
+      {"zh": " "},
+      {"zh": "никто́", "py": "никто́", "gl": "nobody"},
+      {"zh": " "},
+      {"zh": "не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "занима́ется", "py": "занима́ться", "gl": "studies, practices"},
+      {"zh": "."}
+     ],
+     "start": 118.06,
+     "end": 120.27
+    },
+    {
+     "id": "s027",
+     "zh": "Мо́жет быть, винова́ты оди́н-два студе́нта, кото́рые никогда́ не прихо́дят.",
+     "en": "Maybe one or two students who never come are to blame.",
+     "segments": [
+      {"zh": "Мо́жет", "py": "мочь", "gl": "may (maybe)"},
+      {"zh": " "},
+      {"zh": "быть", "py": "быть", "gl": "be (maybe)"},
+      {"zh": ", "},
+      {"zh": "винова́ты", "py": "винова́тый", "gl": "to blame"},
+      {"zh": " "},
+      {"zh": "оди́н-два", "py": "оди́н-два", "gl": "one or two"},
+      {"zh": " "},
+      {"zh": "студе́нта", "py": "студе́нт", "gl": "students (gen. sg.)"},
+      {"zh": ", "},
+      {"zh": "кото́рые", "py": "кото́рый", "gl": "who"},
+      {"zh": " "},
+      {"zh": "никогда́", "py": "никогда́", "gl": "never"},
+      {"zh": " "},
+      {"zh": "не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "прихо́дят", "py": "приходи́ть", "gl": "come"},
+      {"zh": "."}
+     ],
+     "start": 120.34,
+     "end": 124.87
+    },
+    {
+     "id": "s028",
+     "zh": "Они́ как бу́дто говоря́т: «Учи́тель, де́ло не в вас. Мне всё равно́».",
+     "en": "It's as if they're saying: \"Teacher, it's not about you. I just don't care.\"",
+     "segments": [
+      {"zh": "Они́", "py": "они́", "gl": "they"},
+      {"zh": " "},
+      {"zh": "как", "py": "как", "gl": "as"},
+      {"zh": " "},
+      {"zh": "бу́дто", "py": "бу́дто", "gl": "if"},
+      {"zh": " "},
+      {"zh": "говоря́т", "py": "говори́ть", "gl": "are saying"},
+      {"zh": ": «"},
+      {"zh": "Учи́тель", "py": "учи́тель", "gl": "teacher"},
+      {"zh": ", "},
+      {"zh": "де́ло", "py": "де́ло", "gl": "matter, thing"},
+      {"zh": " "},
+      {"zh": "не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "in, about"},
+      {"zh": " "},
+      {"zh": "вас", "py": "вы", "gl": "you (prep.)"},
+      {"zh": ". "},
+      {"zh": "Мне", "py": "я", "gl": "to me (dat.)"},
+      {"zh": " "},
+      {"zh": "всё", "py": "всё", "gl": "all (it's all)"},
+      {"zh": " "},
+      {"zh": "равно́", "py": "равно́", "gl": "the same"},
+      {"zh": "»."}
+     ],
+     "start": 125.06,
+     "end": 131.21
+    },
+    {
+     "id": "s029",
+     "zh": "Ну что ж, че́стно.",
+     "en": "Well, fair enough.",
+     "segments": [
+      {"zh": "Ну", "py": "ну", "gl": "well"},
+      {"zh": " "},
+      {"zh": "что", "py": "что", "gl": "what"},
+      {"zh": " "},
+      {"zh": "ж", "py": "ж", "gl": "then (particle)"},
+      {"zh": ", "},
+      {"zh": "че́стно", "py": "че́стно", "gl": "fair, honest"},
+      {"zh": "."}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s030",
+     "zh": "Сочине́ния, те́сты и при́нтер",
+     "en": "Essays, tests and the printer",
+     "segments": [
+      {"zh": "Сочине́ния", "py": "сочине́ние", "gl": "essays"},
+      {"zh": ", "},
+      {"zh": "те́сты", "py": "тест", "gl": "tests"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "при́нтер", "py": "при́нтер", "gl": "printer"}
+     ],
+     "start": 132.32,
+     "end": 135.03
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s031",
+     "zh": "Сти́вен признаётся: он не́ был уве́рен, хва́тит ли ему́ материа́ла на уро́к.",
+     "en": "Steven admits that he wasn't sure he would have enough material for the lesson.",
+     "segments": [
+      {"zh": "Сти́вен", "py": "Сти́вен", "gl": "Steven (name)"},
+      {"zh": " "},
+      {"zh": "признаётся", "py": "признава́ться", "gl": "admits"},
+      {"zh": ": "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "не́", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "был", "py": "быть", "gl": "was"},
+      {"zh": " "},
+      {"zh": "уве́рен", "py": "уве́ренный", "gl": "sure"},
+      {"zh": ", "},
+      {"zh": "хва́тит", "py": "хвати́ть", "gl": "will be enough"},
+      {"zh": " "},
+      {"zh": "ли", "py": "ли", "gl": "whether"},
+      {"zh": " "},
+      {"zh": "ему́", "py": "он", "gl": "for him (dat.)"},
+      {"zh": " "},
+      {"zh": "материа́ла", "py": "материа́л", "gl": "material (gen.)"},
+      {"zh": " "},
+      {"zh": "на", "py": "на", "gl": "for"},
+      {"zh": " "},
+      {"zh": "уро́к", "py": "уро́к", "gl": "lesson"},
+      {"zh": "."}
+     ],
+     "start": 135.12,
+     "end": 141.33
+    },
+    {
+     "id": "s032",
+     "zh": "За́втра он бу́дет проверя́ть все 50 сочине́ний.",
+     "en": "Tomorrow he will grade all 50 essays.",
+     "segments": [
+      {"zh": "За́втра", "py": "за́втра", "gl": "tomorrow"},
+      {"zh": " "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "бу́дет", "py": "быть", "gl": "will (future aux.)"},
+      {"zh": " "},
+      {"zh": "проверя́ть", "py": "проверя́ть", "gl": "check, grade"},
+      {"zh": " "},
+      {"zh": "все", "py": "весь", "gl": "all"},
+      {"zh": " "},
+      {"zh": "50", "py": "50"},
+      {"zh": " "},
+      {"zh": "сочине́ний", "py": "сочине́ние", "gl": "essays (gen. pl.)"},
+      {"zh": "."}
+     ],
+     "start": 141.7,
+     "end": 145.69
+    },
+    {
+     "id": "s033",
+     "zh": "Он хо́чет верну́ть их в пя́тницу и́ли в сле́дующий вто́рник.",
+     "en": "He wants to return them on Friday or next Tuesday.",
+     "segments": [
+      {"zh": "Он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "хо́чет", "py": "хоте́ть", "gl": "wants"},
+      {"zh": " "},
+      {"zh": "верну́ть", "py": "верну́ть", "gl": "to return"},
+      {"zh": " "},
+      {"zh": "их", "py": "они́", "gl": "them"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "on"},
+      {"zh": " "},
+      {"zh": "пя́тницу", "py": "пя́тница", "gl": "Friday (acc.)"},
+      {"zh": " "},
+      {"zh": "и́ли", "py": "и́ли", "gl": "or"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "on"},
+      {"zh": " "},
+      {"zh": "сле́дующий", "py": "сле́дующий", "gl": "next"},
+      {"zh": " "},
+      {"zh": "вто́рник", "py": "вто́рник", "gl": "Tuesday"},
+      {"zh": "."}
+     ],
+     "start": 145.76,
+     "end": 150.07
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s034",
+     "zh": "В пя́тницу ещё нужно́ распеча́тать пя́тый те́ст.",
+     "en": "On Friday he also needs to print the fifth test.",
+     "segments": [
+      {"zh": "В", "py": "в", "gl": "on"},
+      {"zh": " "},
+      {"zh": "пя́тницу", "py": "пя́тница", "gl": "Friday (acc.)"},
+      {"zh": " "},
+      {"zh": "ещё", "py": "ещё", "gl": "also"},
+      {"zh": " "},
+      {"zh": "нужно́", "py": "ну́жно", "gl": "it's necessary"},
+      {"zh": " "},
+      {"zh": "распеча́тать", "py": "распеча́тать", "gl": "to print"},
+      {"zh": " "},
+      {"zh": "пя́тый", "py": "пя́тый", "gl": "fifth"},
+      {"zh": " "},
+      {"zh": "те́ст", "py": "тест", "gl": "test"},
+      {"zh": "."}
+     ],
+     "start": 150.2,
+     "end": 153.69
+    },
+    {
+     "id": "s035",
+     "zh": "Е́сли в при́нтере есть кра́ска и бума́га.",
+     "en": "If the printer has ink and paper.",
+     "segments": [
+      {"zh": "Е́сли", "py": "е́сли", "gl": "if"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "in"},
+      {"zh": " "},
+      {"zh": "при́нтере", "py": "при́нтер", "gl": "printer (prep.)"},
+      {"zh": " "},
+      {"zh": "есть", "py": "есть", "gl": "there is"},
+      {"zh": " "},
+      {"zh": "кра́ска", "py": "кра́ска", "gl": "ink"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "бума́га", "py": "бума́га", "gl": "paper"},
+      {"zh": "."}
+     ],
+     "start": 154.28,
+     "end": 157.04
+    },
+    {
+     "id": "s036",
+     "zh": "И е́сли при́нтер рабо́тает!",
+     "en": "And if the printer works!",
+     "segments": [
+      {"zh": "И", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "е́сли", "py": "е́сли", "gl": "if"},
+      {"zh": " "},
+      {"zh": "при́нтер", "py": "при́нтер", "gl": "printer"},
+      {"zh": " "},
+      {"zh": "рабо́тает", "py": "рабо́тать", "gl": "works"},
+      {"zh": "!"}
+     ],
+     "start": 157.04,
+     "end": 159.55
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s037",
+     "zh": "Запиши́, переведи́ в текст, подпиши́",
+     "en": "Record it, turn it into text, label it.",
+     "segments": [
+      {"zh": "Запиши́", "py": "записа́ть", "gl": "record (imper.)"},
+      {"zh": ", "},
+      {"zh": "переведи́", "py": "перевести́", "gl": "convert (imper.)"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "into"},
+      {"zh": " "},
+      {"zh": "текст", "py": "текст", "gl": "text"},
+      {"zh": ", "},
+      {"zh": "подпиши́", "py": "подписа́ть", "gl": "label (imper.)"}
+     ],
+     "start": 159.96,
+     "end": 163.44
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s038",
+     "zh": "Во вто́рник Сти́вен ко́нчил всё, что гото́вил, за 45 мину́т.",
+     "en": "On Tuesday, Steven finished everything he had prepared in 45 minutes.",
+     "segments": [
+      {"zh": "Во", "py": "во", "gl": "on"},
+      {"zh": " "},
+      {"zh": "вто́рник", "py": "вто́рник", "gl": "Tuesday"},
+      {"zh": " "},
+      {"zh": "Сти́вен", "py": "Сти́вен", "gl": "Steven (name)"},
+      {"zh": " "},
+      {"zh": "ко́нчил", "py": "ко́нчить", "gl": "finished"},
+      {"zh": " "},
+      {"zh": "всё", "py": "всё", "gl": "everything"},
+      {"zh": ", "},
+      {"zh": "что", "py": "что", "gl": "that"},
+      {"zh": " "},
+      {"zh": "гото́вил", "py": "гото́вить", "gl": "had prepared"},
+      {"zh": ", "},
+      {"zh": "за", "py": "за", "gl": "in (time)"},
+      {"zh": " "},
+      {"zh": "45", "py": "45"},
+      {"zh": " "},
+      {"zh": "мину́т", "py": "мину́та", "gl": "minutes (gen. pl.)"},
+      {"zh": "."}
+     ],
+     "start": 163.44,
+     "end": 168.75
+    },
+    {
+     "id": "s039",
+     "zh": "Лист с про́шлой неде́ли он не про́сил наза́д.",
+     "en": "He didn't ask for last week's sheet back.",
+     "segments": [
+      {"zh": "Лист", "py": "лист", "gl": "sheet"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "from"},
+      {"zh": " "},
+      {"zh": "про́шлой", "py": "про́шлый", "gl": "last"},
+      {"zh": " "},
+      {"zh": "неде́ли", "py": "неде́ля", "gl": "week (gen.)"},
+      {"zh": " "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "про́сил", "py": "проси́ть", "gl": "asked for"},
+      {"zh": " "},
+      {"zh": "наза́д", "py": "наза́д", "gl": "back"},
+      {"zh": "."}
+     ],
+     "start": 169.1,
+     "end": 172.49
+    },
+    {
+     "id": "s040",
+     "zh": "Студе́нты его́ потеря́ют.",
+     "en": "The students will lose it.",
+     "segments": [
+      {"zh": "Студе́нты", "py": "студе́нт", "gl": "students"},
+      {"zh": " "},
+      {"zh": "его́", "py": "он", "gl": "it (acc.)"},
+      {"zh": " "},
+      {"zh": "потеря́ют", "py": "потеря́ть", "gl": "will lose"},
+      {"zh": "."}
+     ],
+     "start": 172.8,
+     "end": 174.85
+    },
+    {
+     "id": "s041",
+     "zh": "Поэ́тому он приду́мал зада́ние для гру́ппы:",
+     "en": "So he came up with a task for the group:",
+     "segments": [
+      {"zh": "Поэ́тому", "py": "поэ́тому", "gl": "so, therefore"},
+      {"zh": " "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "приду́мал", "py": "приду́мать", "gl": "came up with"},
+      {"zh": " "},
+      {"zh": "зада́ние", "py": "зада́ние", "gl": "task"},
+      {"zh": " "},
+      {"zh": "для", "py": "для", "gl": "for"},
+      {"zh": " "},
+      {"zh": "гру́ппы", "py": "гру́ппа", "gl": "group (gen.)"},
+      {"zh": ":"}
+     ],
+     "start": 174.98,
+     "end": 177.83
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s042",
+     "zh": "Пе́рвый круг: репети́ция без за́писи.",
+     "en": "First round: a rehearsal without recording.",
+     "segments": [
+      {"zh": "Пе́рвый", "py": "пе́рвый", "gl": "first"},
+      {"zh": " "},
+      {"zh": "круг", "py": "круг", "gl": "round"},
+      {"zh": ": "},
+      {"zh": "репети́ция", "py": "репети́ция", "gl": "rehearsal"},
+      {"zh": " "},
+      {"zh": "без", "py": "без", "gl": "without"},
+      {"zh": " "},
+      {"zh": "за́писи", "py": "за́пись", "gl": "recording (gen.)"},
+      {"zh": "."}
+     ],
+     "start": 178.0,
+     "end": 180.93
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s043",
+     "zh": "Второ́й круг: за́пись на телефо́н, о́коло шести́ мину́т.",
+     "en": "Second round: a recording on the phone, about six minutes long.",
+     "segments": [
+      {"zh": "Второ́й", "py": "второ́й", "gl": "second"},
+      {"zh": " "},
+      {"zh": "круг", "py": "круг", "gl": "round"},
+      {"zh": ": "},
+      {"zh": "за́пись", "py": "за́пись", "gl": "recording"},
+      {"zh": " "},
+      {"zh": "на", "py": "на", "gl": "on"},
+      {"zh": " "},
+      {"zh": "телефо́н", "py": "телефо́н", "gl": "phone"},
+      {"zh": ", "},
+      {"zh": "о́коло", "py": "о́коло", "gl": "about"},
+      {"zh": " "},
+      {"zh": "шести́", "py": "шесть", "gl": "six (gen.)"},
+      {"zh": " "},
+      {"zh": "мину́т", "py": "мину́та", "gl": "minutes (gen. pl.)"},
+      {"zh": "."}
+     ],
+     "start": 181.14,
+     "end": 185.23
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "Пото́м телефо́н пи́шет текст по за́писи.",
+     "en": "Then the phone writes a transcript from the recording.",
+     "segments": [
+      {"zh": "Пото́м", "py": "пото́м", "gl": "then"},
+      {"zh": " "},
+      {"zh": "телефо́н", "py": "телефо́н", "gl": "phone"},
+      {"zh": " "},
+      {"zh": "пи́шет", "py": "писа́ть", "gl": "writes"},
+      {"zh": " "},
+      {"zh": "текст", "py": "текст", "gl": "text, transcript"},
+      {"zh": " "},
+      {"zh": "по", "py": "по", "gl": "from, based on"},
+      {"zh": " "},
+      {"zh": "за́писи", "py": "за́пись", "gl": "recording (dat.)"},
+      {"zh": "."}
+     ],
+     "start": 186.12,
+     "end": 189.26
+    },
+    {
+     "id": "s045",
+     "zh": "Нужно́ подписа́ть, кто что сказа́л, и подчеркну́ть но́вые слова́.",
+     "en": "You need to label who said what and underline the new words.",
+     "segments": [
+      {"zh": "Нужно́", "py": "ну́жно", "gl": "need to"},
+      {"zh": " "},
+      {"zh": "подписа́ть", "py": "подписа́ть", "gl": "label"},
+      {"zh": ", "},
+      {"zh": "кто", "py": "кто", "gl": "who"},
+      {"zh": " "},
+      {"zh": "что", "py": "что", "gl": "what"},
+      {"zh": " "},
+      {"zh": "сказа́л", "py": "сказа́ть", "gl": "said"},
+      {"zh": ", "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "подчеркну́ть", "py": "подчеркну́ть", "gl": "underline"},
+      {"zh": " "},
+      {"zh": "но́вые", "py": "но́вый", "gl": "new"},
+      {"zh": " "},
+      {"zh": "слова́", "py": "сло́во", "gl": "words"},
+      {"zh": "."}
+     ],
+     "start": 189.26,
+     "end": 194.35
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s046",
+     "zh": "Э́то заняло́ 35–40 мину́т.",
+     "en": "It took 35–40 minutes.",
+     "segments": [
+      {"zh": "Э́то", "py": "э́то", "gl": "it, this"},
+      {"zh": " "},
+      {"zh": "заняло́", "py": "заня́ть", "gl": "took"},
+      {"zh": " "},
+      {"zh": "35", "py": "35"},
+      {"zh": "–"},
+      {"zh": "40", "py": "40"},
+      {"zh": " "},
+      {"zh": "мину́т", "py": "мину́та", "gl": "minutes (gen. pl.)"},
+      {"zh": "."}
+     ],
+     "start": 194.82,
+     "end": 197.73
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s047",
+     "zh": "«Вода́» в семе́стре и вопро́с про «a European Union»",
+     "en": "\"Filler\" in the semester and a question about \"a European Union\"",
+     "segments": [
+      {"zh": "«"},
+      {"zh": "Вода́", "py": "вода́", "gl": "filler (lit. water)"},
+      {"zh": "» "},
+      {"zh": "в", "py": "в", "gl": "in"},
+      {"zh": " "},
+      {"zh": "семе́стре", "py": "семе́стр", "gl": "semester (prep.)"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "вопро́с", "py": "вопро́с", "gl": "question"},
+      {"zh": " "},
+      {"zh": "про", "py": "про", "gl": "about"},
+      {"zh": " «"},
+      {"zh": "a", "py": "a", "gl": "English article \"a\""},
+      {"zh": " "},
+      {"zh": "European", "py": "European", "gl": "English word \"European\""},
+      {"zh": " "},
+      {"zh": "Union", "py": "Union", "gl": "English word \"Union\""},
+      {"zh": "»"}
+     ],
+     "start": 198.92,
+     "end": 203.33
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s048",
+     "zh": "Позже коллега сказала: в начале семестра много нового, а потом в основном «вода».",
+     "en": "Later a colleague said: at the beginning of the semester there's a lot of new material, but after that it's mostly \"filler.\"",
+     "segments": [
+      {"zh": "Позже", "py": "по́зже", "gl": "later"},
+      {"zh": " "},
+      {"zh": "коллега", "py": "колле́га", "gl": "colleague"},
+      {"zh": " "},
+      {"zh": "сказала", "py": "сказа́ть", "gl": "said (past)"},
+      {"zh": ": "},
+      {"zh": "в", "py": "в", "gl": "at"},
+      {"zh": " "},
+      {"zh": "начале", "py": "нача́ло", "gl": "beginning (prep.)"},
+      {"zh": " "},
+      {"zh": "семестра", "py": "семе́стр", "gl": "of the semester"},
+      {"zh": " "},
+      {"zh": "много", "py": "мно́го", "gl": "a lot"},
+      {"zh": " "},
+      {"zh": "нового", "py": "но́вый", "gl": "new (gen.)"},
+      {"zh": ", "},
+      {"zh": "а", "py": "а", "gl": "but"},
+      {"zh": " "},
+      {"zh": "потом", "py": "пото́м", "gl": "then, after that"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "in (в основном)"},
+      {"zh": " "},
+      {"zh": "основном", "py": "основно́й", "gl": "mostly (в основном)"},
+      {"zh": " «"},
+      {"zh": "вода", "py": "вода́", "gl": "filler (lit. water)"},
+      {"zh": "»."}
+     ],
+     "start": 203.46,
+     "end": 209.59
+    },
+    {
+     "id": "s049",
+     "zh": "Стивен думает иначе.",
+     "en": "Steven thinks differently.",
+     "segments": [
+      {"zh": "Стивен", "py": "Стивен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "думает", "py": "ду́мать", "gl": "thinks"},
+      {"zh": " "},
+      {"zh": "иначе", "py": "ина́че", "gl": "differently"},
+      {"zh": "."}
+     ],
+     "start": 209.86,
+     "end": 211.46
+    },
+    {
+     "id": "s050",
+     "zh": "Чем больше времени с языком, тем лучше.",
+     "en": "The more time you spend with the language, the better.",
+     "segments": [
+      {"zh": "Чем", "py": "чем", "gl": "the more (чем…тем)"},
+      {"zh": " "},
+      {"zh": "больше", "py": "бо́льше", "gl": "more"},
+      {"zh": " "},
+      {"zh": "времени", "py": "вре́мя", "gl": "time (gen.)"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "with"},
+      {"zh": " "},
+      {"zh": "языком", "py": "язы́к", "gl": "language (instr.)"},
+      {"zh": ", "},
+      {"zh": "тем", "py": "тем", "gl": "the (…the better)"},
+      {"zh": " "},
+      {"zh": "лучше", "py": "лу́чше", "gl": "better"},
+      {"zh": "."}
+     ],
+     "start": 211.46,
+     "end": 214.57
+    },
+    {
+     "id": "s051",
+     "zh": "Нужно хорошо спать, повторять каждый день и не бояться ошибок.",
+     "en": "You need to sleep well, review every day, and not be afraid of mistakes.",
+     "segments": [
+      {"zh": "Нужно", "py": "ну́жно", "gl": "one needs to"},
+      {"zh": " "},
+      {"zh": "хорошо", "py": "хорошо́", "gl": "well"},
+      {"zh": " "},
+      {"zh": "спать", "py": "спать", "gl": "to sleep"},
+      {"zh": ", "},
+      {"zh": "повторять", "py": "повторя́ть", "gl": "to review"},
+      {"zh": " "},
+      {"zh": "каждый", "py": "ка́ждый", "gl": "every"},
+      {"zh": " "},
+      {"zh": "день", "py": "день", "gl": "day"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "бояться", "py": "боя́ться", "gl": "to be afraid"},
+      {"zh": " "},
+      {"zh": "ошибок", "py": "оши́бка", "gl": "mistakes (gen. pl.)"},
+      {"zh": "."}
+     ],
+     "start": 214.64,
+     "end": 219.38
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s052",
+     "zh": "Сегодня студент спросил: «Почему a European Union, а не an?»",
+     "en": "Today a student asked: \"Why is it 'a European Union' and not 'an'?\"",
+     "segments": [
+      {"zh": "Сегодня", "py": "сего́дня", "gl": "today"},
+      {"zh": " "},
+      {"zh": "студент", "py": "студе́нт", "gl": "student"},
+      {"zh": " "},
+      {"zh": "спросил", "py": "спроси́ть", "gl": "asked (past)"},
+      {"zh": ": «"},
+      {"zh": "Почему", "py": "почему́", "gl": "why"},
+      {"zh": " "},
+      {"zh": "a", "py": "a", "gl": "English article \"a\""},
+      {"zh": " "},
+      {"zh": "European", "py": "European", "gl": "English word \"European\""},
+      {"zh": " "},
+      {"zh": "Union", "py": "Union", "gl": "English word \"Union\""},
+      {"zh": ", "},
+      {"zh": "а", "py": "а", "gl": "and"},
+      {"zh": " "},
+      {"zh": "не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "an", "py": "an", "gl": "English article \"an\""},
+      {"zh": "?»"}
+     ],
+     "start": 219.38,
+     "end": 224.15
+    },
+    {
+     "id": "s053",
+     "zh": "Стивен ответил: «Хороший вопрос для DeepSeek. Спросите Doubao. Не меня!»",
+     "en": "Steven answered: \"Good question for DeepSeek. Ask Doubao. Not me!\"",
+     "segments": [
+      {"zh": "Стивен", "py": "Стивен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "ответил", "py": "отве́тить", "gl": "answered (past)"},
+      {"zh": ": «"},
+      {"zh": "Хороший", "py": "хоро́ший", "gl": "good"},
+      {"zh": " "},
+      {"zh": "вопрос", "py": "вопро́с", "gl": "question"},
+      {"zh": " "},
+      {"zh": "для", "py": "для", "gl": "for"},
+      {"zh": " "},
+      {"zh": "DeepSeek", "py": "DeepSeek", "gl": "the AI DeepSeek"},
+      {"zh": ". "},
+      {"zh": "Спросите", "py": "спроси́ть", "gl": "ask (imper.)"},
+      {"zh": " "},
+      {"zh": "Doubao", "py": "Doubao", "gl": "the AI chatbot Doubao"},
+      {"zh": ". "},
+      {"zh": "Не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "меня", "py": "я", "gl": "me (acc.)"},
+      {"zh": "!»"}
+     ],
+     "start": 224.16,
+     "end": 229.81
+    },
+    {
+     "id": "s054",
+     "zh": "Дело в том, что «eu» звучит как согласный звук.",
+     "en": "The thing is, \"eu\" sounds like a consonant.",
+     "segments": [
+      {"zh": "Дело", "py": "де́ло", "gl": "the thing (is)"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "in"},
+      {"zh": " "},
+      {"zh": "том", "py": "тот", "gl": "that (prep.)"},
+      {"zh": ", "},
+      {"zh": "что", "py": "что", "gl": "that"},
+      {"zh": " «"},
+      {"zh": "eu", "py": "eu", "gl": "the letters \"eu\""},
+      {"zh": "» "},
+      {"zh": "звучит", "py": "звуча́ть", "gl": "sounds"},
+      {"zh": " "},
+      {"zh": "как", "py": "как", "gl": "like"},
+      {"zh": " "},
+      {"zh": "согласный", "py": "согла́сный", "gl": "consonant (adj.)"},
+      {"zh": " "},
+      {"zh": "звук", "py": "звук", "gl": "sound"},
+      {"zh": "."}
+     ],
+     "start": 230.04,
+     "end": 233.65
+    },
+    {
+     "id": "s055",
+     "zh": "Стивен рад вопросам.",
+     "en": "Steven is glad to get questions.",
+     "segments": [
+      {"zh": "Стивен", "py": "Стивен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "рад", "py": "рад", "gl": "glad"},
+      {"zh": " "},
+      {"zh": "вопросам", "py": "вопро́с", "gl": "questions (dat. pl.)"},
+      {"zh": "."}
+     ],
+     "start": 233.7,
+     "end": 235.39
+    },
+    {
+     "id": "s056",
+     "zh": "Но ИИ объясняет грамматику лучше него.",
+     "en": "But AI explains grammar better than he does.",
+     "segments": [
+      {"zh": "Но", "py": "но", "gl": "but"},
+      {"zh": " "},
+      {"zh": "ИИ", "py": "ИИ", "gl": "AI"},
+      {"zh": " "},
+      {"zh": "объясняет", "py": "объясня́ть", "gl": "explains"},
+      {"zh": " "},
+      {"zh": "грамматику", "py": "грамма́тика", "gl": "grammar (acc.)"},
+      {"zh": " "},
+      {"zh": "лучше", "py": "лу́чше", "gl": "better"},
+      {"zh": " "},
+      {"zh": "него", "py": "он", "gl": "than him (gen.)"},
+      {"zh": "."}
+     ],
+     "start": 235.4,
+     "end": 238.47
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s057",
+     "zh": "‍ Урок под наблюдением",
+     "en": "A lesson under observation",
+     "segments": [
+      {"zh": "‍ "},
+      {"zh": "Урок", "py": "уро́к", "gl": "lesson"},
+      {"zh": " "},
+      {"zh": "под", "py": "под", "gl": "under"},
+      {"zh": " "},
+      {"zh": "наблюдением", "py": "наблюде́ние", "gl": "observation (instr.)"}
+     ],
+     "start": 239.02,
+     "end": 241.09
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s058",
+     "zh": "Заведующая кафедрой смотрит уроки всех новых учителей.",
+     "en": "The head of the department observes the lessons of all new teachers.",
+     "segments": [
+      {"zh": "Заведующая", "py": "заве́дующая", "gl": "head (female)"},
+      {"zh": " "},
+      {"zh": "кафедрой", "py": "ка́федра", "gl": "of the department (instr.)"},
+      {"zh": " "},
+      {"zh": "смотрит", "py": "смотре́ть", "gl": "watches, observes"},
+      {"zh": " "},
+      {"zh": "уроки", "py": "уро́к", "gl": "lessons"},
+      {"zh": " "},
+      {"zh": "всех", "py": "весь", "gl": "of all"},
+      {"zh": " "},
+      {"zh": "новых", "py": "но́вый", "gl": "new"},
+      {"zh": " "},
+      {"zh": "учителей", "py": "учи́тель", "gl": "teachers (gen.)"},
+      {"zh": "."}
+     ],
+     "start": 241.36,
+     "end": 245.87
+    },
+    {
+     "id": "s059",
+     "zh": "Она сидела на его первой паре.",
+     "en": "She sat in on his first class.",
+     "segments": [
+      {"zh": "Она", "py": "она́", "gl": "she"},
+      {"zh": " "},
+      {"zh": "сидела", "py": "сиде́ть", "gl": "sat (past)"},
+      {"zh": " "},
+      {"zh": "на", "py": "на", "gl": "in, at"},
+      {"zh": " "},
+      {"zh": "его", "py": "его́", "gl": "his"},
+      {"zh": " "},
+      {"zh": "первой", "py": "пе́рвый", "gl": "first"},
+      {"zh": " "},
+      {"zh": "паре", "py": "па́ра", "gl": "class period"},
+      {"zh": "."}
+     ],
+     "start": 246.14,
+     "end": 248.63
+    },
+    {
+     "id": "s060",
+     "zh": "Стивен немного волновался.",
+     "en": "Steven was a little nervous.",
+     "segments": [
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "немного", "py": "немно́го", "gl": "a little"},
+      {"zh": " "},
+      {"zh": "волновался", "py": "волнова́ться", "gl": "was nervous"},
+      {"zh": "."}
+     ],
+     "start": 248.88,
+     "end": 250.96
+    },
+    {
+     "id": "s061",
+     "zh": "Потом он подумал: «А что бы я изменил?»",
+     "en": "Then he thought: \"What would I change?\"",
+     "segments": [
+      {"zh": "Потом", "py": "пото́м", "gl": "then"},
+      {"zh": " "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "подумал", "py": "поду́мать", "gl": "thought (past)"},
+      {"zh": ": «"},
+      {"zh": "А", "py": "а", "gl": "and, so"},
+      {"zh": " "},
+      {"zh": "что", "py": "что", "gl": "what"},
+      {"zh": " "},
+      {"zh": "бы", "py": "бы", "gl": "would"},
+      {"zh": " "},
+      {"zh": "я", "py": "я", "gl": "I"},
+      {"zh": " "},
+      {"zh": "изменил", "py": "измени́ть", "gl": "change (past)"},
+      {"zh": "?»"}
+     ],
+     "start": 250.96,
+     "end": 254.71
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s062",
+     "zh": "На следующей неделе придёт глава международного отдела.",
+     "en": "Next week the head of the international department will come.",
+     "segments": [
+      {"zh": "На", "py": "на", "gl": "on, in"},
+      {"zh": " "},
+      {"zh": "следующей", "py": "сле́дующий", "gl": "next"},
+      {"zh": " "},
+      {"zh": "неделе", "py": "неде́ля", "gl": "week (prep.)"},
+      {"zh": " "},
+      {"zh": "придёт", "py": "прийти́", "gl": "will come"},
+      {"zh": " "},
+      {"zh": "глава", "py": "глава́", "gl": "head"},
+      {"zh": " "},
+      {"zh": "международного", "py": "междунаро́дный", "gl": "international"},
+      {"zh": " "},
+      {"zh": "отдела", "py": "отде́л", "gl": "of the department"},
+      {"zh": "."}
+     ],
+     "start": 254.92,
+     "end": 259.42
+    },
+    {
+     "id": "s063",
+     "zh": "Ему нужен план урока с целями.",
+     "en": "He needs a lesson plan with objectives.",
+     "segments": [
+      {"zh": "Ему", "py": "он", "gl": "to him (dat.)"},
+      {"zh": " "},
+      {"zh": "нужен", "py": "ну́жный", "gl": "needed"},
+      {"zh": " "},
+      {"zh": "план", "py": "план", "gl": "plan"},
+      {"zh": " "},
+      {"zh": "урока", "py": "уро́к", "gl": "of a lesson"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "with"},
+      {"zh": " "},
+      {"zh": "целями", "py": "цель", "gl": "goals (instr.)"},
+      {"zh": "."}
+     ],
+     "start": 259.42,
+     "end": 262.53
+    },
+    {
+     "id": "s064",
+     "zh": "Стивен не писал план со времён CELTA.",
+     "en": "Steven hasn't written a plan since CELTA.",
+     "segments": [
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "писал", "py": "писа́ть", "gl": "wrote (past)"},
+      {"zh": " "},
+      {"zh": "план", "py": "план", "gl": "plan"},
+      {"zh": " "},
+      {"zh": "со", "py": "со", "gl": "since"},
+      {"zh": " "},
+      {"zh": "времён", "py": "вре́мя", "gl": "times (gen. pl.)"},
+      {"zh": " "},
+      {"zh": "CELTA", "py": "CELTA", "gl": "CELTA teaching course"},
+      {"zh": "."}
+     ],
+     "start": 263.08,
+     "end": 265.31
+    },
+    {
+     "id": "s065",
+     "zh": "CELTA — это курс для учителей английского.",
+     "en": "CELTA is a course for English teachers.",
+     "segments": [
+      {"zh": "CELTA", "py": "CELTA", "gl": "CELTA teaching course"},
+      {"zh": " — "},
+      {"zh": "это", "py": "э́то", "gl": "is, this is"},
+      {"zh": " "},
+      {"zh": "курс", "py": "курс", "gl": "course"},
+      {"zh": " "},
+      {"zh": "для", "py": "для", "gl": "for"},
+      {"zh": " "},
+      {"zh": "учителей", "py": "учи́тель", "gl": "teachers (gen.)"},
+      {"zh": " "},
+      {"zh": "английского", "py": "англи́йский", "gl": "of English"},
+      {"zh": "."}
+     ],
+     "start": 266.92,
+     "end": 269.01
+    },
+    {
+     "id": "s066",
+     "zh": "Зато, как он шутит: «У меня есть обаяние, харизма и веселье!»",
+     "en": "On the other hand, as he jokes: \"I've got charm, charisma and fun!\"",
+     "segments": [
+      {"zh": "Зато", "py": "зато́", "gl": "on the other hand"},
+      {"zh": ", "},
+      {"zh": "как", "py": "как", "gl": "as"},
+      {"zh": " "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "шутит", "py": "шути́ть", "gl": "jokes"},
+      {"zh": ": «"},
+      {"zh": "У", "py": "у", "gl": "at, by"},
+      {"zh": " "},
+      {"zh": "меня", "py": "я", "gl": "me (gen.)"},
+      {"zh": " "},
+      {"zh": "есть", "py": "есть", "gl": "there is, have"},
+      {"zh": " "},
+      {"zh": "обаяние", "py": "обая́ние", "gl": "charm"},
+      {"zh": ", "},
+      {"zh": "харизма", "py": "хари́зма", "gl": "charisma"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "веселье", "py": "весе́лье", "gl": "fun"},
+      {"zh": "!»"}
+     ],
+     "start": 269.38,
+     "end": 274.87
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s067",
+     "zh": "Студенты не видят план урока.",
+     "en": "Students don't see the lesson plan.",
+     "segments": [
+      {"zh": "Студенты", "py": "студе́нт", "gl": "students"},
+      {"zh": " "},
+      {"zh": "не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "видят", "py": "ви́деть", "gl": "see"},
+      {"zh": " "},
+      {"zh": "план", "py": "план", "gl": "plan"},
+      {"zh": " "},
+      {"zh": "урока", "py": "уро́к", "gl": "of a lesson"},
+      {"zh": "."}
+     ],
+     "start": 275.28,
+     "end": 277.31
+    },
+    {
+     "id": "s068",
+     "zh": "Они чувствуют, страшно ли идти на урок.",
+     "en": "They feel whether it's scary to go to class.",
+     "segments": [
+      {"zh": "Они", "py": "они́", "gl": "they"},
+      {"zh": " "},
+      {"zh": "чувствуют", "py": "чу́вствовать", "gl": "feel"},
+      {"zh": ", "},
+      {"zh": "страшно", "py": "стра́шно", "gl": "scary"},
+      {"zh": " "},
+      {"zh": "ли", "py": "ли", "gl": "whether"},
+      {"zh": " "},
+      {"zh": "идти", "py": "идти́", "gl": "to go"},
+      {"zh": " "},
+      {"zh": "на", "py": "на", "gl": "to"},
+      {"zh": " "},
+      {"zh": "урок", "py": "уро́к", "gl": "lesson, class"},
+      {"zh": "."}
+     ],
+     "start": 277.32,
+     "end": 280.61
+    },
+    {
+     "id": "s069",
+     "zh": "От Стивена они получают разговоры, истории, игры и его китайский с сильным акцентом.",
+     "en": "From Steven they get conversations, stories, games and his heavily accented Chinese.",
+     "segments": [
+      {"zh": "От", "py": "от", "gl": "from"},
+      {"zh": " "},
+      {"zh": "Стивена", "py": "Сти́вен", "gl": "Steven (gen.)"},
+      {"zh": " "},
+      {"zh": "они", "py": "они́", "gl": "they"},
+      {"zh": " "},
+      {"zh": "получают", "py": "получа́ть", "gl": "get, receive"},
+      {"zh": " "},
+      {"zh": "разговоры", "py": "разгово́р", "gl": "conversations"},
+      {"zh": ", "},
+      {"zh": "истории", "py": "исто́рия", "gl": "stories"},
+      {"zh": ", "},
+      {"zh": "игры", "py": "игра́", "gl": "games"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "его", "py": "его́", "gl": "his"},
+      {"zh": " "},
+      {"zh": "китайский", "py": "кита́йский", "gl": "Chinese (language)"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "with"},
+      {"zh": " "},
+      {"zh": "сильным", "py": "си́льный", "gl": "strong, heavy"},
+      {"zh": " "},
+      {"zh": "акцентом", "py": "акце́нт", "gl": "accent (instr.)"},
+      {"zh": "."}
+     ],
+     "start": 280.82,
+     "end": 287.93
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s070",
+     "zh": "Карточки мистера Клоде",
+     "en": "Mr. Claude's flashcards",
+     "segments": [
+      {"zh": "Карточки", "py": "ка́рточка", "gl": "flashcards"},
+      {"zh": " "},
+      {"zh": "мистера", "py": "ми́стер", "gl": "Mister (gen.)"},
+      {"zh": " "},
+      {"zh": "Клоде", "py": "Кло́де", "gl": "Claude (AI name)"}
+     ],
+     "start": 288.52,
+     "end": 291.07
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s071",
+     "zh": "После урока старшая учительница сказала: «Впечатляюще!»",
+     "en": "After the lesson, the head teacher said: \"Impressive!\"",
+     "segments": [
+      {"zh": "После", "py": "по́сле", "gl": "after"},
+      {"zh": " "},
+      {"zh": "урока", "py": "уро́к", "gl": "lesson (gen.)"},
+      {"zh": " "},
+      {"zh": "старшая", "py": "ста́рший", "gl": "senior, head"},
+      {"zh": " "},
+      {"zh": "учительница", "py": "учи́тельница", "gl": "teacher (female)"},
+      {"zh": " "},
+      {"zh": "сказала", "py": "сказа́ть", "gl": "said"},
+      {"zh": ": «"},
+      {"zh": "Впечатляюще", "py": "впечатля́юще", "gl": "impressive"},
+      {"zh": "!»"}
+     ],
+     "start": 291.62,
+     "end": 296.33
+    },
+    {
+     "id": "s072",
+     "zh": "Стивен думает, что дело в карточках.",
+     "en": "Steven thinks the flashcards are the reason.",
+     "segments": [
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "думает", "py": "ду́мать", "gl": "thinks"},
+      {"zh": ", "},
+      {"zh": "что", "py": "что", "gl": "that"},
+      {"zh": " "},
+      {"zh": "дело", "py": "де́ло", "gl": "matter, reason"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "in"},
+      {"zh": " "},
+      {"zh": "карточках", "py": "ка́рточка", "gl": "flashcards (prep.)"},
+      {"zh": "."}
+     ],
+     "start": 296.6,
+     "end": 299.33
+    },
+    {
+     "id": "s073",
+     "zh": "Его ИИ-помощник сделал наборы карточек.",
+     "en": "His AI assistant made sets of flashcards.",
+     "segments": [
+      {"zh": "Его", "py": "его́", "gl": "his"},
+      {"zh": " "},
+      {"zh": "ИИ-помощник", "py": "ИИ-помо́щник", "gl": "AI assistant"},
+      {"zh": " "},
+      {"zh": "сделал", "py": "сде́лать", "gl": "made"},
+      {"zh": " "},
+      {"zh": "наборы", "py": "набо́р", "gl": "sets"},
+      {"zh": " "},
+      {"zh": "карточек", "py": "ка́рточка", "gl": "of flashcards (gen.)"},
+      {"zh": "."}
+     ],
+     "start": 299.38,
+     "end": 303.37
+    },
+    {
+     "id": "s074",
+     "zh": "Стивен зовёт его «мистер Клоде».",
+     "en": "Steven calls it \"Mister Claude.\"",
+     "segments": [
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "зовёт", "py": "звать", "gl": "calls"},
+      {"zh": " "},
+      {"zh": "его", "py": "он", "gl": "him, it (acc.)"},
+      {"zh": " «"},
+      {"zh": "мистер", "py": "ми́стер", "gl": "Mister"},
+      {"zh": " "},
+      {"zh": "Клоде", "py": "Кло́де", "gl": "Claude (AI name)"},
+      {"zh": "»."}
+     ],
+     "start": 303.68,
+     "end": 306.48
+    },
+    {
+     "id": "s075",
+     "zh": "Так звучит изысканнее.",
+     "en": "It sounds fancier that way.",
+     "segments": [
+      {"zh": "Так", "py": "так", "gl": "that way"},
+      {"zh": " "},
+      {"zh": "звучит", "py": "звуча́ть", "gl": "sounds"},
+      {"zh": " "},
+      {"zh": "изысканнее", "py": "изы́сканный", "gl": "more refined"},
+      {"zh": "."}
+     ],
+     "start": 306.48,
+     "end": 308.31
+    },
+    {
+     "id": "s076",
+     "zh": "На одной карточке — предложение с пропуском.",
+     "en": "One card has a sentence with a blank.",
+     "segments": [
+      {"zh": "На", "py": "на", "gl": "on"},
+      {"zh": " "},
+      {"zh": "одной", "py": "оди́н", "gl": "one"},
+      {"zh": " "},
+      {"zh": "карточке", "py": "ка́рточка", "gl": "card (prep.)"},
+      {"zh": " — "},
+      {"zh": "предложение", "py": "предложе́ние", "gl": "sentence"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "with"},
+      {"zh": " "},
+      {"zh": "пропуском", "py": "про́пуск", "gl": "gap, blank (instr.)"},
+      {"zh": "."}
+     ],
+     "start": 308.78,
+     "end": 312.09
+    },
+    {
+     "id": "s077",
+     "zh": "На следующей — ответ.",
+     "en": "The next one has the answer.",
+     "segments": [
+      {"zh": "На", "py": "на", "gl": "on"},
+      {"zh": " "},
+      {"zh": "следующей", "py": "сле́дующий", "gl": "next"},
+      {"zh": " — "},
+      {"zh": "ответ", "py": "отве́т", "gl": "answer"},
+      {"zh": "."}
+     ],
+     "start": 312.42,
+     "end": 314.23
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s078",
+     "zh": "Сначала Стивен показал детский вариант: «Ваша бабушка — это he, she или it?»",
+     "en": "First, Steven showed a kids' version: \"Is your grandmother he, she or it?\"",
+     "segments": [
+      {"zh": "Сначала", "py": "снача́ла", "gl": "first"},
+      {"zh": " "},
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "показал", "py": "показа́ть", "gl": "showed"},
+      {"zh": " "},
+      {"zh": "детский", "py": "де́тский", "gl": "children's"},
+      {"zh": " "},
+      {"zh": "вариант", "py": "вариа́нт", "gl": "version"},
+      {"zh": ": «"},
+      {"zh": "Ваша", "py": "ваш", "gl": "your"},
+      {"zh": " "},
+      {"zh": "бабушка", "py": "ба́бушка", "gl": "grandmother"},
+      {"zh": " — "},
+      {"zh": "это", "py": "э́то", "gl": "is (this)"},
+      {"zh": " "},
+      {"zh": "he", "py": "he", "gl": "English \"he\""},
+      {"zh": ", "},
+      {"zh": "she", "py": "she", "gl": "English \"she\""},
+      {"zh": " "},
+      {"zh": "или", "py": "и́ли", "gl": "or"},
+      {"zh": " "},
+      {"zh": "it", "py": "it", "gl": "English \"it\""},
+      {"zh": "?»"}
+     ],
+     "start": 314.64,
+     "end": 320.11
+    },
+    {
+     "id": "s079",
+     "zh": "Потом взял настоящие слова из сочинений.",
+     "en": "Then he took real words from the students' essays.",
+     "segments": [
+      {"zh": "Потом", "py": "пото́м", "gl": "then"},
+      {"zh": " "},
+      {"zh": "взял", "py": "взять", "gl": "took"},
+      {"zh": " "},
+      {"zh": "настоящие", "py": "настоя́щий", "gl": "real"},
+      {"zh": " "},
+      {"zh": "слова", "py": "сло́во", "gl": "words"},
+      {"zh": " "},
+      {"zh": "из", "py": "из", "gl": "from"},
+      {"zh": " "},
+      {"zh": "сочинений", "py": "сочине́ние", "gl": "essays (gen.)"},
+      {"zh": "."}
+     ],
+     "start": 320.56,
+     "end": 323.69
+    },
+    {
+     "id": "s080",
+     "zh": "Студенты занимались в парах.",
+     "en": "The students worked in pairs.",
+     "segments": [
+      {"zh": "Студенты", "py": "студе́нт", "gl": "students"},
+      {"zh": " "},
+      {"zh": "занимались", "py": "занима́ться", "gl": "studied, worked"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "in"},
+      {"zh": " "},
+      {"zh": "парах", "py": "па́ра", "gl": "pairs (prep.)"},
+      {"zh": "."}
+     ],
+     "start": 323.8,
+     "end": 325.81
+    },
+    {
+     "id": "s081",
+     "zh": "Затем на экране пошли часы на восемь минут.",
+     "en": "Then an eight-minute timer started running on the screen.",
+     "segments": [
+      {"zh": "Затем", "py": "зате́м", "gl": "then"},
+      {"zh": " "},
+      {"zh": "на", "py": "на", "gl": "on"},
+      {"zh": " "},
+      {"zh": "экране", "py": "экра́н", "gl": "screen (prep.)"},
+      {"zh": " "},
+      {"zh": "пошли", "py": "пойти́", "gl": "started running"},
+      {"zh": " "},
+      {"zh": "часы", "py": "часы́", "gl": "clock, timer"},
+      {"zh": " "},
+      {"zh": "на", "py": "на", "gl": "for"},
+      {"zh": " "},
+      {"zh": "восемь", "py": "во́семь", "gl": "eight"},
+      {"zh": " "},
+      {"zh": "минут", "py": "мину́та", "gl": "minutes (gen.)"},
+      {"zh": "."}
+     ],
+     "start": 326.0,
+     "end": 328.97
+    },
+    {
+     "id": "s082",
+     "zh": "Стивен сказал: «Встаньте, задвиньте стулья и найдите трёх разных людей!»",
+     "en": "Steven said: \"Stand up, push in your chairs and find three different people!\"",
+     "segments": [
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "сказал", "py": "сказа́ть", "gl": "said"},
+      {"zh": ": «"},
+      {"zh": "Встаньте", "py": "встать", "gl": "stand up"},
+      {"zh": ", "},
+      {"zh": "задвиньте", "py": "задви́нуть", "gl": "push in"},
+      {"zh": " "},
+      {"zh": "стулья", "py": "стул", "gl": "chairs"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "найдите", "py": "найти́", "gl": "find"},
+      {"zh": " "},
+      {"zh": "трёх", "py": "три", "gl": "three"},
+      {"zh": " "},
+      {"zh": "разных", "py": "ра́зный", "gl": "different"},
+      {"zh": " "},
+      {"zh": "людей", "py": "челове́к", "gl": "people (gen.)"},
+      {"zh": "!»"}
+     ],
+     "start": 329.2,
+     "end": 334.79
+    },
+    {
+     "id": "s083",
+     "zh": "Получилось ли?",
+     "en": "Did it work?",
+     "segments": [
+      {"zh": "Получилось", "py": "получи́ться", "gl": "worked out"},
+      {"zh": " "},
+      {"zh": "ли", "py": "ли", "gl": "(question particle)"},
+      {"zh": "?"}
+     ],
+     "start": 335.02,
+     "end": 336.27
+    },
+    {
+     "id": "s084",
+     "zh": "Вопрос спорный.",
+     "en": "That's debatable.",
+     "segments": [
+      {"zh": "Вопрос", "py": "вопро́с", "gl": "question"},
+      {"zh": " "},
+      {"zh": "спорный", "py": "спо́рный", "gl": "debatable"},
+      {"zh": "."}
+     ],
+     "start": 336.3,
+     "end": 337.59
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s085",
+     "zh": "Стивен честно говорит: только в трёх группах из 14 правильно сделали задание с записью.",
+     "en": "Steven admits it honestly: only three groups out of 14 did the recording task correctly.",
+     "segments": [
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "честно", "py": "че́стно", "gl": "honestly"},
+      {"zh": " "},
+      {"zh": "говорит", "py": "говори́ть", "gl": "says"},
+      {"zh": ": "},
+      {"zh": "только", "py": "то́лько", "gl": "only"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "in"},
+      {"zh": " "},
+      {"zh": "трёх", "py": "три", "gl": "three"},
+      {"zh": " "},
+      {"zh": "группах", "py": "гру́ппа", "gl": "groups (prep.)"},
+      {"zh": " "},
+      {"zh": "из", "py": "из", "gl": "out of"},
+      {"zh": " "},
+      {"zh": "14", "py": "14"},
+      {"zh": " "},
+      {"zh": "правильно", "py": "пра́вильно", "gl": "correctly"},
+      {"zh": " "},
+      {"zh": "сделали", "py": "сде́лать", "gl": "did"},
+      {"zh": " "},
+      {"zh": "задание", "py": "зада́ние", "gl": "task"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "with"},
+      {"zh": " "},
+      {"zh": "записью", "py": "за́пись", "gl": "recording (instr.)"},
+      {"zh": "."}
+     ],
+     "start": 337.96,
+     "end": 344.36
+    },
+    {
+     "id": "s086",
+     "zh": "И он с оценкой за понятность согласен.",
+     "en": "And he agrees with the score for clarity.",
+     "segments": [
+      {"zh": "И", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "with"},
+      {"zh": " "},
+      {"zh": "оценкой", "py": "оце́нка", "gl": "score, grade (instr.)"},
+      {"zh": " "},
+      {"zh": "за", "py": "за", "gl": "for"},
+      {"zh": " "},
+      {"zh": "понятность", "py": "поня́тность", "gl": "clarity"},
+      {"zh": " "},
+      {"zh": "согласен", "py": "согла́сный", "gl": "agrees"},
+      {"zh": "."}
+     ],
+     "start": 344.36,
+     "end": 347.33
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s087",
+     "zh": "Личные презентации и хитрость с словами",
+     "en": "Personal presentations and a trick with words",
+     "segments": [
+      {"zh": "Личные", "py": "ли́чный", "gl": "personal"},
+      {"zh": " "},
+      {"zh": "презентации", "py": "презента́ция", "gl": "presentations"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "хитрость", "py": "хи́трость", "gl": "trick"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "with"},
+      {"zh": " "},
+      {"zh": "словами", "py": "сло́во", "gl": "words (instr.)"}
+     ],
+     "start": 347.56,
+     "end": 350.99
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s088",
+     "zh": "Каждый урок начинается с личных презентаций.",
+     "en": "Every lesson begins with personal presentations.",
+     "segments": [
+      {"zh": "Каждый", "py": "ка́ждый", "gl": "every"},
+      {"zh": " "},
+      {"zh": "урок", "py": "уро́к", "gl": "lesson"},
+      {"zh": " "},
+      {"zh": "начинается", "py": "начина́ться", "gl": "begins"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "with"},
+      {"zh": " "},
+      {"zh": "личных", "py": "ли́чный", "gl": "personal"},
+      {"zh": " "},
+      {"zh": "презентаций", "py": "презента́ция", "gl": "presentations (gen.)"},
+      {"zh": "."}
+     ],
+     "start": 351.12,
+     "end": 354.35
+    },
+    {
+     "id": "s089",
+     "zh": "Студент говорит 2–3 минуты.",
+     "en": "A student speaks for 2–3 minutes.",
+     "segments": [
+      {"zh": "Студент", "py": "студе́нт", "gl": "student"},
+      {"zh": " "},
+      {"zh": "говорит", "py": "говори́ть", "gl": "speaks"},
+      {"zh": " "},
+      {"zh": "2", "py": "2"},
+      {"zh": "–"},
+      {"zh": "3", "py": "3"},
+      {"zh": " "},
+      {"zh": "минуты", "py": "мину́та", "gl": "minutes"},
+      {"zh": "."}
+     ],
+     "start": 354.4,
+     "end": 356.73
+    },
+    {
+     "id": "s090",
+     "zh": "Четыре слайда, без бумажек.",
+     "en": "Four slides, no notes.",
+     "segments": [
+      {"zh": "Четыре", "py": "четы́ре", "gl": "four"},
+      {"zh": " "},
+      {"zh": "слайда", "py": "слайд", "gl": "slides"},
+      {"zh": ", "},
+      {"zh": "без", "py": "без", "gl": "without"},
+      {"zh": " "},
+      {"zh": "бумажек", "py": "бума́жка", "gl": "notes (gen. pl.)"},
+      {"zh": "."}
+     ],
+     "start": 357.14,
+     "end": 359.29
+    },
+    {
+     "id": "s091",
+     "zh": "Друг снимает на видео.",
+     "en": "A friend films it on video.",
+     "segments": [
+      {"zh": "Друг", "py": "друг", "gl": "friend"},
+      {"zh": " "},
+      {"zh": "снимает", "py": "снима́ть", "gl": "films"},
+      {"zh": " "},
+      {"zh": "на", "py": "на", "gl": "on"},
+      {"zh": " "},
+      {"zh": "видео", "py": "ви́део", "gl": "video"},
+      {"zh": "."}
+     ],
+     "start": 359.6,
+     "end": 361.05
+    },
+    {
+     "id": "s092",
+     "zh": "Так студенты говорят больше, а учитель — меньше.",
+     "en": "This way the students talk more and the teacher talks less.",
+     "segments": [
+      {"zh": "Так", "py": "так", "gl": "this way"},
+      {"zh": " "},
+      {"zh": "студенты", "py": "студе́нт", "gl": "students"},
+      {"zh": " "},
+      {"zh": "говорят", "py": "говори́ть", "gl": "talk"},
+      {"zh": " "},
+      {"zh": "больше", "py": "бо́льше", "gl": "more"},
+      {"zh": ", "},
+      {"zh": "а", "py": "а", "gl": "and, while"},
+      {"zh": " "},
+      {"zh": "учитель", "py": "учи́тель", "gl": "teacher"},
+      {"zh": " — "},
+      {"zh": "меньше", "py": "ме́ньше", "gl": "less"},
+      {"zh": "."}
+     ],
+     "start": 361.28,
+     "end": 364.55
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s093",
+     "zh": "Слушатели выбирают три «больших» слова.",
+     "en": "The listeners choose three \"big\" words.",
+     "segments": [
+      {"zh": "Слушатели", "py": "слу́шатель", "gl": "listeners"},
+      {"zh": " "},
+      {"zh": "выбирают", "py": "выбира́ть", "gl": "choose"},
+      {"zh": " "},
+      {"zh": "три", "py": "три", "gl": "three"},
+      {"zh": " «"},
+      {"zh": "больших", "py": "большо́й", "gl": "big"},
+      {"zh": "» "},
+      {"zh": "слова", "py": "сло́во", "gl": "words"},
+      {"zh": "."}
+     ],
+     "start": 364.88,
+     "end": 367.67
+    },
+    {
+     "id": "s094",
+     "zh": "Сегодня одна девушка закончила, и её подруга сразу прислала три слова в чат WeChat.",
+     "en": "Today one girl finished, and her friend immediately sent three words to the WeChat chat.",
+     "segments": [
+      {"zh": "Сегодня", "py": "сего́дня", "gl": "today"},
+      {"zh": " "},
+      {"zh": "одна", "py": "оди́н", "gl": "one"},
+      {"zh": " "},
+      {"zh": "девушка", "py": "де́вушка", "gl": "girl"},
+      {"zh": " "},
+      {"zh": "закончила", "py": "зако́нчить", "gl": "finished (past)"},
+      {"zh": ", "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "её", "py": "её", "gl": "her"},
+      {"zh": " "},
+      {"zh": "подруга", "py": "подру́га", "gl": "friend (female)"},
+      {"zh": " "},
+      {"zh": "сразу", "py": "сра́зу", "gl": "immediately"},
+      {"zh": " "},
+      {"zh": "прислала", "py": "присла́ть", "gl": "sent (past)"},
+      {"zh": " "},
+      {"zh": "три", "py": "три", "gl": "three"},
+      {"zh": " "},
+      {"zh": "слова", "py": "сло́во", "gl": "words"},
+      {"zh": " "},
+      {"zh": "в", "py": "в", "gl": "into"},
+      {"zh": " "},
+      {"zh": "чат", "py": "чат", "gl": "chat"},
+      {"zh": " "},
+      {"zh": "WeChat", "py": "WeChat", "gl": "the app WeChat"},
+      {"zh": "."}
+     ],
+     "start": 367.8,
+     "end": 373.71
+    },
+    {
+     "id": "s095",
+     "zh": "Парням нечего было добавить.",
+     "en": "The guys had nothing to add.",
+     "segments": [
+      {"zh": "Парням", "py": "па́рень", "gl": "guys (dat.)"},
+      {"zh": " "},
+      {"zh": "нечего", "py": "не́чего", "gl": "nothing"},
+      {"zh": " "},
+      {"zh": "было", "py": "быть", "gl": "was"},
+      {"zh": " "},
+      {"zh": "добавить", "py": "доба́вить", "gl": "to add"},
+      {"zh": "."}
+     ],
+     "start": 373.88,
+     "end": 376.03
+    },
+    {
+     "id": "s096",
+     "zh": "Стивен сказал: «Молодцы, девушки! Вы перехитрили личные презентации!»",
+     "en": "Steven said: \"Well done, girls! You outsmarted the personal presentations!\"",
+     "segments": [
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "сказал", "py": "сказа́ть", "gl": "said"},
+      {"zh": ": «"},
+      {"zh": "Молодцы", "py": "молоде́ц", "gl": "well done"},
+      {"zh": ", "},
+      {"zh": "девушки", "py": "де́вушка", "gl": "girls"},
+      {"zh": "! "},
+      {"zh": "Вы", "py": "вы", "gl": "you"},
+      {"zh": " "},
+      {"zh": "перехитрили", "py": "перехитри́ть", "gl": "outsmarted"},
+      {"zh": " "},
+      {"zh": "личные", "py": "ли́чный", "gl": "personal"},
+      {"zh": " "},
+      {"zh": "презентации", "py": "презента́ция", "gl": "presentations"},
+      {"zh": "!»"}
+     ],
+     "start": 376.22,
+     "end": 381.31
+    },
+    {
+     "id": "s097",
+     "zh": "Запрещена только одна тема — баскетбол.",
+     "en": "Only one topic is banned: basketball.",
+     "segments": [
+      {"zh": "Запрещена", "py": "запрещённый", "gl": "banned"},
+      {"zh": " "},
+      {"zh": "только", "py": "то́лько", "gl": "only"},
+      {"zh": " "},
+      {"zh": "одна", "py": "оди́н", "gl": "one"},
+      {"zh": " "},
+      {"zh": "тема", "py": "те́ма", "gl": "topic"},
+      {"zh": " — "},
+      {"zh": "баскетбол", "py": "баскетбо́л", "gl": "basketball"},
+      {"zh": "."}
+     ],
+     "start": 381.4,
+     "end": 384.61
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s098",
+     "zh": "⏳ Экзамены и убегающий год",
+     "en": "⏳ Exams and the year slipping away",
+     "segments": [
+      {"zh": "⏳ "},
+      {"zh": "Экзамены", "py": "экза́мен", "gl": "exams"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "убегающий", "py": "убега́ть", "gl": "slipping away (participle)"},
+      {"zh": " "},
+      {"zh": "год", "py": "год", "gl": "year"}
+     ],
+     "start": 385.44,
+     "end": 387.88
+    }
+   ]
+  },
+  {
+   "id": "p33",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s099",
+     "zh": "Экзамены по разговору — на 15-й неделе.",
+     "en": "The speaking exams are in week 15.",
+     "segments": [
+      {"zh": "Экзамены", "py": "экза́мен", "gl": "exams"},
+      {"zh": " "},
+      {"zh": "по", "py": "по", "gl": "in, on (a subject)"},
+      {"zh": " "},
+      {"zh": "разговору", "py": "разгово́р", "gl": "speaking (dat.)"},
+      {"zh": " — "},
+      {"zh": "на", "py": "на", "gl": "in, on"},
+      {"zh": " "},
+      {"zh": "15-й", "py": "15-й"},
+      {"zh": " "},
+      {"zh": "неделе", "py": "неде́ля", "gl": "week (prep.)"},
+      {"zh": "."}
+     ],
+     "start": 387.88,
+     "end": 390.99
+    },
+    {
+     "id": "s100",
+     "zh": "Сейчас 12-я.",
+     "en": "It's week 12 now.",
+     "segments": [
+      {"zh": "Сейчас", "py": "сейча́с", "gl": "now"},
+      {"zh": " "},
+      {"zh": "12-я", "py": "12-я"},
+      {"zh": "."}
+     ],
+     "start": 391.1,
+     "end": 392.45
+    },
+    {
+     "id": "s101",
+     "zh": "Письменный экзамен — в понедельник, 4 января.",
+     "en": "The written exam is on Monday, January 4.",
+     "segments": [
+      {"zh": "Письменный", "py": "пи́сьменный", "gl": "written"},
+      {"zh": " "},
+      {"zh": "экзамен", "py": "экза́мен", "gl": "exam"},
+      {"zh": " — "},
+      {"zh": "в", "py": "в", "gl": "on"},
+      {"zh": " "},
+      {"zh": "понедельник", "py": "понеде́льник", "gl": "Monday"},
+      {"zh": ", "},
+      {"zh": "4", "py": "4"},
+      {"zh": " "},
+      {"zh": "января", "py": "янва́рь", "gl": "of January (gen.)"},
+      {"zh": "."}
+     ],
+     "start": 392.98,
+     "end": 396.49
+    },
+    {
+     "id": "s102",
+     "zh": "Стивен немного волнуется.",
+     "en": "Steven is a little nervous.",
+     "segments": [
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven (name)"},
+      {"zh": " "},
+      {"zh": "немного", "py": "немно́го", "gl": "a little"},
+      {"zh": " "},
+      {"zh": "волнуется", "py": "волнова́ться", "gl": "is nervous"},
+      {"zh": "."}
+     ],
+     "start": 396.68,
+     "end": 398.94
+    },
+    {
+     "id": "s103",
+     "zh": "И вдруг уже 2027 год!",
+     "en": "And suddenly it's already 2027!",
+     "segments": [
+      {"zh": "И", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "вдруг", "py": "вдруг", "gl": "suddenly"},
+      {"zh": " "},
+      {"zh": "уже", "py": "уже́", "gl": "already"},
+      {"zh": " "},
+      {"zh": "2027", "py": "2027"},
+      {"zh": " "},
+      {"zh": "год", "py": "год", "gl": "year"},
+      {"zh": "!"}
+     ],
+     "start": 398.94,
+     "end": 401.91
+    },
+    {
+     "id": "s104",
+     "zh": "«2026 год был очень интересным» — ну, в самом общем смысле.",
+     "en": "\"2026 was a very interesting year\", well, in the most general sense.",
+     "segments": [
+      {"zh": "«"},
+      {"zh": "2026", "py": "2026"},
+      {"zh": " "},
+      {"zh": "год", "py": "год", "gl": "year"},
+      {"zh": " "},
+      {"zh": "был", "py": "быть", "gl": "was (past)"},
+      {"zh": " "},
+      {"zh": "очень", "py": "о́чень", "gl": "very"},
+      {"zh": " "},
+      {"zh": "интересным", "py": "интере́сный", "gl": "interesting (instr.)"},
+      {"zh": "» — "},
+      {"zh": "ну", "py": "ну", "gl": "well"},
+      {"zh": ", "},
+      {"zh": "в", "py": "в", "gl": "in"},
+      {"zh": " "},
+      {"zh": "самом", "py": "са́мый", "gl": "most"},
+      {"zh": " "},
+      {"zh": "общем", "py": "о́бщий", "gl": "general"},
+      {"zh": " "},
+      {"zh": "смысле", "py": "смысл", "gl": "sense (prep.)"},
+      {"zh": "."}
+     ],
+     "start": 402.6,
+     "end": 407.62
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s105",
+     "zh": "Роботы проверяют роботов",
+     "en": "Robots check robots",
+     "segments": [
+      {"zh": "Роботы", "py": "ро́бот", "gl": "robots"},
+      {"zh": " "},
+      {"zh": "проверяют", "py": "проверя́ть", "gl": "check"},
+      {"zh": " "},
+      {"zh": "роботов", "py": "ро́бот", "gl": "robots (acc.)"}
+     ],
+     "start": 407.62,
+     "end": 410.7
+    }
+   ]
+  },
+  {
+   "id": "p35",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s106",
+     "zh": "Проблема Стивена: он не успевает проверять всё, что делает ИИ.",
+     "en": "Steven's problem: he can't keep up with checking everything the AI does.",
+     "segments": [
+      {"zh": "Проблема", "py": "пробле́ма", "gl": "problem"},
+      {"zh": " "},
+      {"zh": "Стивена", "py": "Сти́вен", "gl": "Steven's (gen.)"},
+      {"zh": ": "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "успевает", "py": "успева́ть", "gl": "manage in time"},
+      {"zh": " "},
+      {"zh": "проверять", "py": "проверя́ть", "gl": "check"},
+      {"zh": " "},
+      {"zh": "всё", "py": "всё", "gl": "everything"},
+      {"zh": ", "},
+      {"zh": "что", "py": "что", "gl": "that, which"},
+      {"zh": " "},
+      {"zh": "делает", "py": "де́лать", "gl": "does"},
+      {"zh": " "},
+      {"zh": "ИИ", "py": "ИИ", "gl": "AI"},
+      {"zh": "."}
+     ],
+     "start": 410.7,
+     "end": 415.63
+    },
+    {
+     "id": "s107",
+     "zh": "Он спросил Claude: можно ли проверять ночью и не тратить свои деньги?",
+     "en": "He asked Claude: is it possible to do the checking at night without spending his own money?",
+     "segments": [
+      {"zh": "Он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "спросил", "py": "спроси́ть", "gl": "asked"},
+      {"zh": " "},
+      {"zh": "Claude", "py": "Claude", "gl": "the AI Claude"},
+      {"zh": ": "},
+      {"zh": "можно", "py": "мо́жно", "gl": "is it possible"},
+      {"zh": " "},
+      {"zh": "ли", "py": "ли", "gl": "whether (question)"},
+      {"zh": " "},
+      {"zh": "проверять", "py": "проверя́ть", "gl": "check"},
+      {"zh": " "},
+      {"zh": "ночью", "py": "но́чью", "gl": "at night"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "не", "py": "не", "gl": "not"},
+      {"zh": " "},
+      {"zh": "тратить", "py": "тра́тить", "gl": "spend"},
+      {"zh": " "},
+      {"zh": "свои", "py": "свой", "gl": "his own"},
+      {"zh": " "},
+      {"zh": "деньги", "py": "де́ньги", "gl": "money"},
+      {"zh": "?"}
+     ],
+     "start": 415.7,
+     "end": 421.33
+    },
+    {
+     "id": "s108",
+     "zh": "Claude написал программу для Google Таблицы.",
+     "en": "Claude wrote a program for Google Sheets.",
+     "segments": [
+      {"zh": "Claude", "py": "Claude", "gl": "the AI Claude"},
+      {"zh": " "},
+      {"zh": "написал", "py": "написа́ть", "gl": "wrote"},
+      {"zh": " "},
+      {"zh": "программу", "py": "програ́мма", "gl": "program (acc.)"},
+      {"zh": " "},
+      {"zh": "для", "py": "для", "gl": "for"},
+      {"zh": " "},
+      {"zh": "Google", "py": "Google", "gl": "Google"},
+      {"zh": " "},
+      {"zh": "Таблицы", "py": "табли́ца", "gl": "Sheets (gen.)"},
+      {"zh": "."}
+     ],
+     "start": 422.62,
+     "end": 424.95
+    },
+    {
+     "id": "s109",
+     "zh": "Её запускает Gemini по бесплатному ключу.",
+     "en": "Gemini runs it using a free key.",
+     "segments": [
+      {"zh": "Её", "py": "она́", "gl": "it (acc.)"},
+      {"zh": " "},
+      {"zh": "запускает", "py": "запуска́ть", "gl": "runs, launches"},
+      {"zh": " "},
+      {"zh": "Gemini", "py": "Gemini", "gl": "the AI Gemini"},
+      {"zh": " "},
+      {"zh": "по", "py": "по", "gl": "using, by"},
+      {"zh": " "},
+      {"zh": "бесплатному", "py": "беспла́тный", "gl": "free"},
+      {"zh": " "},
+      {"zh": "ключу", "py": "ключ", "gl": "key (dat.)"},
+      {"zh": "."}
+     ],
+     "start": 425.08,
+     "end": 428.31
+    },
+    {
+     "id": "s110",
+     "zh": "Но Gemini часто доходил до предела.",
+     "en": "But Gemini often hit its limit.",
+     "segments": [
+      {"zh": "Но", "py": "но", "gl": "but"},
+      {"zh": " "},
+      {"zh": "Gemini", "py": "Gemini", "gl": "the AI Gemini"},
+      {"zh": " "},
+      {"zh": "часто", "py": "ча́сто", "gl": "often"},
+      {"zh": " "},
+      {"zh": "доходил", "py": "доходи́ть", "gl": "reached (past)"},
+      {"zh": " "},
+      {"zh": "до", "py": "до", "gl": "to, up to"},
+      {"zh": " "},
+      {"zh": "предела", "py": "преде́л", "gl": "limit (gen.)"},
+      {"zh": "."}
+     ],
+     "start": 428.5,
+     "end": 431.25
+    },
+    {
+     "id": "s111",
+     "zh": "Тогда Стивен добавил ключ OpenAI.",
+     "en": "Then Steven added an OpenAI key.",
+     "segments": [
+      {"zh": "Тогда", "py": "тогда́", "gl": "then"},
+      {"zh": " "},
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "добавил", "py": "доба́вить", "gl": "added"},
+      {"zh": " "},
+      {"zh": "ключ", "py": "ключ", "gl": "key"},
+      {"zh": " "},
+      {"zh": "OpenAI", "py": "OpenAI", "gl": "the company OpenAI"},
+      {"zh": "."}
+     ],
+     "start": 431.46,
+     "end": 434.43
+    }
+   ]
+  },
+  {
+   "id": "p36",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s112",
+     "zh": "Сегодня утром были готовы 25 комиксов для тех, кто учит английский.",
+     "en": "This morning, 25 comics were ready for people learning English.",
+     "segments": [
+      {"zh": "Сегодня", "py": "сего́дня", "gl": "today"},
+      {"zh": " "},
+      {"zh": "утром", "py": "у́тром", "gl": "in the morning"},
+      {"zh": " "},
+      {"zh": "были", "py": "быть", "gl": "were"},
+      {"zh": " "},
+      {"zh": "готовы", "py": "гото́вый", "gl": "ready"},
+      {"zh": " "},
+      {"zh": "25", "py": "25"},
+      {"zh": " "},
+      {"zh": "комиксов", "py": "ко́микс", "gl": "comics (gen. pl.)"},
+      {"zh": " "},
+      {"zh": "для", "py": "для", "gl": "for"},
+      {"zh": " "},
+      {"zh": "тех", "py": "тот", "gl": "those"},
+      {"zh": ", "},
+      {"zh": "кто", "py": "кто", "gl": "who"},
+      {"zh": " "},
+      {"zh": "учит", "py": "учи́ть", "gl": "learns"},
+      {"zh": " "},
+      {"zh": "английский", "py": "англи́йский", "gl": "English"},
+      {"zh": "."}
+     ],
+     "start": 434.84,
+     "end": 440.39
+    },
+    {
+     "id": "s113",
+     "zh": "Дальше Стивен сделает из них короткие фильмы с музыкой.",
+     "en": "Next, Steven will turn them into short films with music.",
+     "segments": [
+      {"zh": "Дальше", "py": "да́льше", "gl": "next"},
+      {"zh": " "},
+      {"zh": "Стивен", "py": "Сти́вен", "gl": "Steven"},
+      {"zh": " "},
+      {"zh": "сделает", "py": "сде́лать", "gl": "will make"},
+      {"zh": " "},
+      {"zh": "из", "py": "из", "gl": "from, out of"},
+      {"zh": " "},
+      {"zh": "них", "py": "они́", "gl": "them"},
+      {"zh": " "},
+      {"zh": "короткие", "py": "коро́ткий", "gl": "short"},
+      {"zh": " "},
+      {"zh": "фильмы", "py": "фильм", "gl": "films"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "with"},
+      {"zh": " "},
+      {"zh": "музыкой", "py": "му́зыка", "gl": "music (instr.)"},
+      {"zh": "."}
+     ],
+     "start": 440.66,
+     "end": 444.53
+    }
+   ]
+  },
+  {
+   "id": "p37",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s114",
+     "zh": "Такую же систему он хочет для видео и для Substack.",
+     "en": "He wants the same kind of system for video and for Substack.",
+     "segments": [
+      {"zh": "Такую", "py": "тако́й", "gl": "such, the same kind"},
+      {"zh": " "},
+      {"zh": "же", "py": "же", "gl": "same (emphasis)"},
+      {"zh": " "},
+      {"zh": "систему", "py": "систе́ма", "gl": "system (acc.)"},
+      {"zh": " "},
+      {"zh": "он", "py": "он", "gl": "he"},
+      {"zh": " "},
+      {"zh": "хочет", "py": "хоте́ть", "gl": "wants"},
+      {"zh": " "},
+      {"zh": "для", "py": "для", "gl": "for"},
+      {"zh": " "},
+      {"zh": "видео", "py": "ви́део", "gl": "video"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "для", "py": "для", "gl": "for"},
+      {"zh": " "},
+      {"zh": "Substack", "py": "Substack", "gl": "the platform Substack"},
+      {"zh": "."}
+     ],
+     "start": 444.8,
+     "end": 448.27
+    },
+    {
+     "id": "s115",
+     "zh": "«Это то же самое, просто теперь с помощью агентов».",
+     "en": "\"It's the same thing, just with the help of agents now.\"",
+     "segments": [
+      {"zh": "«"},
+      {"zh": "Это", "py": "э́то", "gl": "this, it"},
+      {"zh": " "},
+      {"zh": "то", "py": "тот", "gl": "that (то же — the same)"},
+      {"zh": " "},
+      {"zh": "же", "py": "же", "gl": "same (emphasis)"},
+      {"zh": " "},
+      {"zh": "самое", "py": "са́мый", "gl": "the same"},
+      {"zh": ", "},
+      {"zh": "просто", "py": "про́сто", "gl": "just"},
+      {"zh": " "},
+      {"zh": "теперь", "py": "тепе́рь", "gl": "now"},
+      {"zh": " "},
+      {"zh": "с", "py": "с", "gl": "with"},
+      {"zh": " "},
+      {"zh": "помощью", "py": "по́мощь", "gl": "help (instr.)"},
+      {"zh": " "},
+      {"zh": "агентов", "py": "аге́нт", "gl": "agents (gen.)"},
+      {"zh": "»."}
+     ],
+     "start": 448.92,
+     "end": 453.01
+    }
+   ]
+  },
+  {
+   "id": "p38",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s116",
+     "zh": "Главная мысль",
+     "en": "The main idea",
+     "segments": [
+      {"zh": "Главная", "py": "гла́вный", "gl": "main"},
+      {"zh": " "},
+      {"zh": "мысль", "py": "мысль", "gl": "idea, thought"}
+     ],
+     "start": 453.38,
+     "end": 455.01
+    }
+   ]
+  },
+  {
+   "id": "p39",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s117",
+     "zh": "Оценки, гости на уроке и проверки ИИ — это обратная связь.",
+     "en": "Grades, guests in class and AI checks are all feedback.",
+     "segments": [
+      {"zh": "Оценки", "py": "оце́нка", "gl": "grades"},
+      {"zh": ", "},
+      {"zh": "гости", "py": "гость", "gl": "guests"},
+      {"zh": " "},
+      {"zh": "на", "py": "на", "gl": "in, at"},
+      {"zh": " "},
+      {"zh": "уроке", "py": "уро́к", "gl": "lesson, class (prep.)"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "проверки", "py": "прове́рка", "gl": "checks, reviews"},
+      {"zh": " "},
+      {"zh": "ИИ", "py": "ИИ", "gl": "AI (artificial intelligence)"},
+      {"zh": " — "},
+      {"zh": "это", "py": "э́то", "gl": "this is, these are"},
+      {"zh": " "},
+      {"zh": "обратная", "py": "обра́тный", "gl": "reverse; feedback (with связь)"},
+      {"zh": " "},
+      {"zh": "связь", "py": "связь", "gl": "connection; feedback (with обратная)"},
+      {"zh": "."}
+     ],
+     "start": 455.26,
+     "end": 461.64
+    },
+    {
+     "id": "s118",
+     "zh": "Она нужна, только если делать выводы.",
+     "en": "It's only useful if you draw conclusions from it.",
+     "segments": [
+      {"zh": "Она", "py": "она́", "gl": "it (fem.)"},
+      {"zh": " "},
+      {"zh": "нужна", "py": "ну́жный", "gl": "needed, useful"},
+      {"zh": ", "},
+      {"zh": "только", "py": "то́лько", "gl": "only"},
+      {"zh": " "},
+      {"zh": "если", "py": "е́сли", "gl": "if"},
+      {"zh": " "},
+      {"zh": "делать", "py": "де́лать", "gl": "to draw, to make"},
+      {"zh": " "},
+      {"zh": "выводы", "py": "вы́вод", "gl": "conclusions"},
+      {"zh": "."}
+     ],
+     "start": 461.64,
+     "end": 464.79
+    },
+    {
+     "id": "s119",
+     "zh": "Поможет ли ИИ, который сам себя исправляет, делать очень много видео и текстов?",
+     "en": "Will an AI that corrects itself help make lots of videos and texts?",
+     "segments": [
+      {"zh": "Поможет", "py": "помо́чь", "gl": "will help"},
+      {"zh": " "},
+      {"zh": "ли", "py": "ли", "gl": "question particle (whether)"},
+      {"zh": " "},
+      {"zh": "ИИ", "py": "ИИ", "gl": "AI (artificial intelligence)"},
+      {"zh": ", "},
+      {"zh": "который", "py": "кото́рый", "gl": "which, that"},
+      {"zh": " "},
+      {"zh": "сам", "py": "сам", "gl": "itself"},
+      {"zh": " "},
+      {"zh": "себя", "py": "себя́", "gl": "itself (reflexive, acc.)"},
+      {"zh": " "},
+      {"zh": "исправляет", "py": "исправля́ть", "gl": "corrects"},
+      {"zh": ", "},
+      {"zh": "делать", "py": "де́лать", "gl": "to make"},
+      {"zh": " "},
+      {"zh": "очень", "py": "о́чень", "gl": "very"},
+      {"zh": " "},
+      {"zh": "много", "py": "мно́го", "gl": "many, a lot"},
+      {"zh": " "},
+      {"zh": "видео", "py": "ви́део", "gl": "videos"},
+      {"zh": " "},
+      {"zh": "и", "py": "и", "gl": "and"},
+      {"zh": " "},
+      {"zh": "текстов", "py": "текст", "gl": "texts (gen. pl.)"},
+      {"zh": "?"}
+     ],
+     "start": 465.24,
+     "end": 471.79
+    },
+    {
+     "id": "s120",
+     "zh": "Посмотрим!",
+     "en": "We'll see!",
+     "segments": [
+      {"zh": "Посмотрим", "py": "посмотре́ть", "gl": "we'll see"},
+      {"zh": "!"}
+     ],
+     "start": 472.04,
+     "end": 473.17
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "оце́нка", "en": "grade, evaluation score"},
+  {"zh": "анке́та", "en": "survey, questionnaire"},
+  {"zh": "сочине́ние", "en": "essay"},
+  {"zh": "проверя́ть", "en": "to check, to mark"},
+  {"zh": "карто́чка", "en": "flashcard"},
+  {"zh": "презента́ция", "en": "presentation"},
+  {"zh": "экза́мен", "en": "exam"},
+  {"zh": "ошибка́", "en": "mistake"},
+  {"zh": "волнова́ться", "en": "to be nervous"},
+  {"zh": "обра́тная связь", "en": "feedback"},
+  {"zh": "бесплатный", "en": "free (no cost)"},
+  {"zh": "повторя́ть", "en": "to repeat, to review"}
+ ]
+}

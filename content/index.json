@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-24T19:30",
+ "updated": "2026-11-25T18:19",
  "episodes": [
+  {
+   "id": "ssab-2026-11-25",
+   "date": "2026-11-25",
+   "title": "\"Impressive!\": Grades, Flashcards and Robots",
+   "titleRu": "«Впечатля́юще!»: оце́нки, карто́чки и ро́боты",
+   "description": "Steven talks about his teacher evaluation scores, students who insist the grades were wrong, and a senior teacher's verdict of \"impressive\" after she watched his lesson with AI-made flashcards. He also covers his student-centred teaching approach, the upcoming speaking exams, and his new overnight system where AI agents check each other's work.",
+   "duration": 474,
+   "words": 819,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-24",
    "date": "2026-11-24",
