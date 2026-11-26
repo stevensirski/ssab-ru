@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-25T18:19",
+ "updated": "2026-11-26T20:30",
  "episodes": [
+  {
+   "id": "ssab-2026-11-26",
+   "date": "2026-11-26",
+   "title": "A Year on AI: Success or Scam?",
+   "titleRu": "Год на ИИ: успе́х или обма́н?",
+   "description": "On Thanksgiving, Steven talks about his week of using AI tools like Claude, Muse and Gemini to post his podcast to Instagram automatically, and asks whether the word \"American\" really fits a Canadian. He admits his AI experiments are losing money for now, gives himself one year to make his own business work, and shares news about student essays, an odd email and a café near his home that closed.",
+   "duration": 510,
+   "words": 932,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-25",
    "date": "2026-11-25",
