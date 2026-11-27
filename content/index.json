@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-26T20:30",
+ "updated": "2026-11-27T21:27",
  "episodes": [
+  {
+   "id": "ssab-2026-11-27",
+   "date": "2026-11-27",
+   "title": "Clever Students, Even Cleverer Teacher",
+   "titleRu": "Хи́трые студе́нты и ещё хитре́е учи́тель",
+   "description": "Steven describes how his students in China find clever ways to game his class presentations and AI-made tests, and how he outsmarts them in return. He also covers livestream glitches, using an AI tool called Muse to post to Instagram, and an argument in the staff room over whether AI will replace teachers the way cars replaced horses.",
+   "duration": 517,
+   "words": 895,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-26",
    "date": "2026-11-26",
